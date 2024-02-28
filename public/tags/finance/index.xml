@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Finance on Lucas Pauker</title>
+    <link>//localhost:1311/tags/finance/</link>
+    <description>Recent content in Finance on Lucas Pauker</description>
+    <image>
+      <title>Lucas Pauker</title>
+      <url>//localhost:1311/images/papermod-cover.png</url>
+      <link>//localhost:1311/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1311/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simple Stock Market Models with Python</title>
+      <link>//localhost:1311/articles/simple-stock-market-models-with-python/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1311/articles/simple-stock-market-models-with-python/</guid>
+      <description>Introduction In this blog post, I will implement a few simple time series models of a stock price over time. I will also see how they do if we trade using them. We will look at moving averages (MA) and exponential moving averages (EMA).
+Data First, we need to download the price data. For this article, we will use SPY historical open price data. We can download this from Yahoo Finance.</description>
+    </item>
+    <item>
+      <title>US Treasury Futures Delivery Options</title>
+      <link>//localhost:1311/articles/us-treasury-futures-delivery-options/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1311/articles/us-treasury-futures-delivery-options/</guid>
+      <description>Introduction This blog post will discuss the delivery options for someone who is short US Treasury (UST) futures contracts. During the last month of trading, the short &amp;ldquo;delivers&amp;rdquo; the USTs specified in the futures contract to the long. The short has various options when they make delivery of the treasuries. Understanding these options is interesting and important for anyone who trades UST futures and the UST basis.
+UST futures are some of the most liquid financial contracts in the world.</description>
+    </item>
+    <item>
+      <title>Timekeeping in Financial Exchanges</title>
+      <link>//localhost:1311/articles/timekeeping-in-financial-exchanges/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1311/articles/timekeeping-in-financial-exchanges/</guid>
+      <description>Why Exchange Clocks Matter In high frequency trading (HFT), time is literally money. An edge of a few microseconds could translate to millions in profits. The most popular markets for cash products (equity, bonds, etc.) are in New York (NYSE, Nasdaq), while the most popular futures and options market is in Chicago (CME). Since cash and futures influence each other, getting data between New York and Chicago as fast as possible is important.</description>
+    </item>
+  </channel>
+</rss>

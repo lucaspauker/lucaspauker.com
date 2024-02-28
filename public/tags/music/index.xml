@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Music on Lucas Pauker</title>
+    <link>//localhost:1311/tags/music/</link>
+    <description>Recent content in Music on Lucas Pauker</description>
+    <image>
+      <title>Lucas Pauker</title>
+      <url>//localhost:1311/images/papermod-cover.png</url>
+      <link>//localhost:1311/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1311/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why do Musical Scales Have Certain Numbers of Notes?</title>
+      <link>//localhost:1311/articles/why-do-musical-scales-have-certain-numbers-of-notes/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1311/articles/why-do-musical-scales-have-certain-numbers-of-notes/</guid>
+      <description>The Question I, like many others, started learning to play piano when I was around 8 years old. I took lessons, learned songs, and gained an appreciation for the instrument. I have been playing (with some breaks) until today. Although I have been playing for a while, it wasn’t until taking my first music theory class in college that I started thinking deeply about why music is constructed in the way it is.</description>
+    </item>
+    <item>
+      <title>Classical Music Classifier Project</title>
+      <link>//localhost:1311/articles/music-matcher/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1311/articles/music-matcher/</guid>
+      <description>Introduction This project done for my CS221 class aims to classify classical music by musical era (Baroque, Classical, Romantic, Modern) with composers as a proxy.
+Using audio processing techniques, such as Short-time Fourier Transform, we extracted features such as the spectrogram and chromagram of the audio data from two datasets, Free Music Archive and MAESTRO.
+We used two ensemble classifiers, AdaBoost and Random Forest, and found that although Adaboost performed marginally better than Random Forest, the latter made more generalizable predictions.</description>
+    </item>
+  </channel>
+</rss>
