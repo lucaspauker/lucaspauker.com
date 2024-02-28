@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lucaspauker.github.io/sitemap.xml

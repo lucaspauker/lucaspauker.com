@@ -1,7 +1,8 @@
-baseURL: ""
+baseURL: "https://lucaspauker.github.io/"
 languageCode: en-us
 title: Lucas Pauker
 theme: PaperMod
+publishDir: "docs"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true

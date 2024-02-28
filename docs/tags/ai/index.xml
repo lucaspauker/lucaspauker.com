@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI on Lucas Pauker</title>
+    <link>https://lucaspauker.github.io/tags/ai/</link>
+    <description>Recent content in AI on Lucas Pauker</description>
+    <image>
+      <title>Lucas Pauker</title>
+      <url>https://lucaspauker.github.io/images/papermod-cover.png</url>
+      <link>https://lucaspauker.github.io/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lucaspauker.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI Model Timing</title>
+      <link>https://lucaspauker.github.io/articles/openai-model-timing/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://lucaspauker.github.io/articles/openai-model-timing/</guid>
+      <description>Introduction The goal of this article is to explore the latency of different OpenAI models. When using AI models in production, latency is an important factor to consider.
+Comparing Model Architectures First, I test the latency for different OpenAI models. I test the following models: gpt-4, gpt-4-0613, gpt-3.5-turbo, gpt-3.5-turbo-0613, gpt-3.5-turbo-16k, gpt-3.5-turbo-16k-0613, text-davinci-003, text-davinci-002, text-davinci-001, text-curie-001, text-babbage-001, text-ada-001, davinci-002, babbage-002, davinci, curie, babbage, and ada. These are all the OpenAI models that are available for inference through the chat and completions endpoints.</description>
+    </item>
+    <item>
+      <title>LLMs Unleashed: The Power of Fine-Tuning</title>
+      <link>https://lucaspauker.github.io/articles/llms-unleashed-the-power-of-fine-tuning/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://lucaspauker.github.io/articles/llms-unleashed-the-power-of-fine-tuning/</guid>
+      <description>Disclaimer: This article mentions https://terra-cotta.ai/, an LLM experimentation platform I am building
+Introduction ChatGPT, Bard, and other large language models (LLMs) are very useful for a wide variety of tasks from writing code to answering complex questions to aiding with education. However, these models are ultimately limited by the data that they are trained on. Also, these models are trained to be able to answer a wide variety of questions which may not be sufficient for domain-specific questions.</description>
+    </item>
+    <item>
+      <title>50 AI Applications</title>
+      <link>https://lucaspauker.github.io/articles/50-practical-applications-of-artificial-intelligence-and-language-models/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://lucaspauker.github.io/articles/50-practical-applications-of-artificial-intelligence-and-language-models/</guid>
+      <description>Advancements in artificial intelligence and language models have made significant impacts in various fields from healthcare to finance to entertainment. Here are 50 practical applications of AI that are currently in use or have the potential to be implemented in various industries. Let me know if any of these ideas inspire you or if you build any of them!
+Text Analysis Automatically generate outlines or summaries of news articles. Find fake news and provide a citation with the real source.</description>
+    </item>
+    <item>
+      <title>Blackjack Reinforcement Learning</title>
+      <link>https://lucaspauker.github.io/articles/reinforcement-learning-applied-to-blackjack/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucaspauker.github.io/articles/reinforcement-learning-applied-to-blackjack/</guid>
+      <description>Introduction I recently read Ed Thorpe&amp;rsquo;s Beat the Dealer, a book about how Thorpe, a mathematician, found a way to gain an edge in blackjack. In the book, Thorpe uses computer simulations to calculate the best blackjack strategy as well as card-counting strategies. Since I took a reinforcement learning class last quarter, I wanted to apply one of the most common algorithms, Q-learning, to to find the best strategy for blackjack.</description>
+    </item>
+    <item>
+      <title>Classical Music Classifier Project</title>
+      <link>https://lucaspauker.github.io/articles/music-matcher/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://lucaspauker.github.io/articles/music-matcher/</guid>
+      <description>Introduction This project done for my CS221 class aims to classify classical music by musical era (Baroque, Classical, Romantic, Modern) with composers as a proxy.
+Using audio processing techniques, such as Short-time Fourier Transform, we extracted features such as the spectrogram and chromagram of the audio data from two datasets, Free Music Archive and MAESTRO.
+We used two ensemble classifiers, AdaBoost and Random Forest, and found that although Adaboost performed marginally better than Random Forest, the latter made more generalizable predictions.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Lucas Pauker</title>
+    <link>https://lucaspauker.github.io/tags/</link>
+    <description>Recent content in Tags on Lucas Pauker</description>
+    <image>
+      <title>Lucas Pauker</title>
+      <url>https://lucaspauker.github.io/images/papermod-cover.png</url>
+      <link>https://lucaspauker.github.io/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lucaspauker.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://lucaspauker.github.io/tags/ai/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://lucaspauker.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CS</title>
+      <link>https://lucaspauker.github.io/tags/cs/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://lucaspauker.github.io/tags/cs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>H-2A</title>
+      <link>https://lucaspauker.github.io/tags/h-2a/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://lucaspauker.github.io/tags/h-2a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RL</title>
+      <link>https://lucaspauker.github.io/tags/rl/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucaspauker.github.io/tags/rl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Science</title>
+      <link>https://lucaspauker.github.io/tags/science/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://lucaspauker.github.io/tags/science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finance</title>
+      <link>https://lucaspauker.github.io/tags/finance/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://lucaspauker.github.io/tags/finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>https://lucaspauker.github.io/tags/music/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://lucaspauker.github.io/tags/music/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
