@@ -33,7 +33,7 @@ menu:
       url: /projects
       weight: 30
 
-# googleAnalytics: UA-123-45
+googleAnalytics: G-49CCEN1B6K
 
 minify:
   disableXML: true
