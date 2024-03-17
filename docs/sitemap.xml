@@ -2,111 +2,111 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1311/articles/</loc>
+    <loc>https://lucaspauker.com/articles/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/tags/baseball/</loc>
+    <loc>https://lucaspauker.com/tags/baseball/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/articles/baseball-modeling-part-1/</loc>
+    <loc>https://lucaspauker.com/articles/baseball-modeling-part-1/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/tags/cs/</loc>
+    <loc>https://lucaspauker.com/tags/cs/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/</loc>
+    <loc>https://lucaspauker.com/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/tags/sports/</loc>
+    <loc>https://lucaspauker.com/tags/sports/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/tags/</loc>
+    <loc>https://lucaspauker.com/tags/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/tags/ai/</loc>
+    <loc>https://lucaspauker.com/tags/ai/</loc>
     <lastmod>2023-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/articles/openai-model-timing/</loc>
+    <loc>https://lucaspauker.com/articles/openai-model-timing/</loc>
     <lastmod>2023-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/articles/llms-unleashed-the-power-of-fine-tuning/</loc>
+    <loc>https://lucaspauker.com/articles/llms-unleashed-the-power-of-fine-tuning/</loc>
     <lastmod>2023-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/articles/50-practical-applications-of-artificial-intelligence-and-language-models/</loc>
+    <loc>https://lucaspauker.com/articles/50-practical-applications-of-artificial-intelligence-and-language-models/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/articles/challenges-facing-h-2a-farmers-and-workers/</loc>
+    <loc>https://lucaspauker.com/articles/challenges-facing-h-2a-farmers-and-workers/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/tags/h-2a/</loc>
+    <loc>https://lucaspauker.com/tags/h-2a/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/articles/the-process-of-narrowing-down-an-idea-and-navigating-the-idea-maze/</loc>
+    <loc>https://lucaspauker.com/articles/the-process-of-narrowing-down-an-idea-and-navigating-the-idea-maze/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/articles/what-should-change-in-h-2a/</loc>
+    <loc>https://lucaspauker.com/articles/what-should-change-in-h-2a/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/articles/lessons-from-floodgate-s-summer-accelerator/</loc>
+    <loc>https://lucaspauker.com/articles/lessons-from-floodgate-s-summer-accelerator/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/articles/why-is-h-2a-important/</loc>
+    <loc>https://lucaspauker.com/articles/why-is-h-2a-important/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/articles/lessons-learned-from-restoring-a-bike/</loc>
+    <loc>https://lucaspauker.com/articles/lessons-learned-from-restoring-a-bike/</loc>
     <lastmod>2022-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/articles/reinforcement-learning-applied-to-blackjack/</loc>
+    <loc>https://lucaspauker.com/articles/reinforcement-learning-applied-to-blackjack/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/tags/rl/</loc>
+    <loc>https://lucaspauker.com/tags/rl/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/articles/achieving-quantum-supremacy-qubit-by-qubit/</loc>
+    <loc>https://lucaspauker.com/articles/achieving-quantum-supremacy-qubit-by-qubit/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/tags/science/</loc>
+    <loc>https://lucaspauker.com/tags/science/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/tags/finance/</loc>
+    <loc>https://lucaspauker.com/tags/finance/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/articles/simple-stock-market-models-with-python/</loc>
+    <loc>https://lucaspauker.com/articles/simple-stock-market-models-with-python/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/articles/us-treasury-futures-delivery-options/</loc>
+    <loc>https://lucaspauker.com/articles/us-treasury-futures-delivery-options/</loc>
     <lastmod>2020-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/articles/timekeeping-in-financial-exchanges/</loc>
+    <loc>https://lucaspauker.com/articles/timekeeping-in-financial-exchanges/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/tags/music/</loc>
+    <loc>https://lucaspauker.com/tags/music/</loc>
     <lastmod>2020-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/articles/why-do-musical-scales-have-certain-numbers-of-notes/</loc>
+    <loc>https://lucaspauker.com/articles/why-do-musical-scales-have-certain-numbers-of-notes/</loc>
     <lastmod>2020-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/articles/understanding-solar-flares-with-time-series-data/</loc>
+    <loc>https://lucaspauker.com/articles/understanding-solar-flares-with-time-series-data/</loc>
     <lastmod>2019-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/articles/random-number-generator-with-pi/</loc>
+    <loc>https://lucaspauker.com/articles/random-number-generator-with-pi/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/articles/music-matcher/</loc>
+    <loc>https://lucaspauker.com/articles/music-matcher/</loc>
     <lastmod>2019-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/articles/recurrent-neural-networks-for-song-lyrics/</loc>
+    <loc>https://lucaspauker.com/articles/recurrent-neural-networks-for-song-lyrics/</loc>
     <lastmod>2019-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/articles/automatic-dj/</loc>
+    <loc>https://lucaspauker.com/articles/automatic-dj/</loc>
     <lastmod>2019-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1311/about/</loc>
+    <loc>https://lucaspauker.com/about/</loc>
   </url><url>
-    <loc>http://localhost:1311/archives/</loc>
+    <loc>https://lucaspauker.com/archives/</loc>
   </url><url>
-    <loc>http://localhost:1311/categories/</loc>
+    <loc>https://lucaspauker.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1311/projects/</loc>
+    <loc>https://lucaspauker.com/projects/</loc>
   </url>
 </urlset>

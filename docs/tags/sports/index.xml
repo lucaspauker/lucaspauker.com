@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sports on Lucas Pauker</title>
-    <link>http://localhost:1311/tags/sports/</link>
+    <link>https://lucaspauker.com/tags/sports/</link>
     <description>Recent content in Sports on Lucas Pauker</description>
     <image>
       <title>Lucas Pauker</title>
-      <url>http://localhost:1311/images/papermod-cover.png</url>
-      <link>http://localhost:1311/images/papermod-cover.png</link>
+      <url>https://lucaspauker.com/images/papermod-cover.png</url>
+      <link>https://lucaspauker.com/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1311/tags/sports/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lucaspauker.com/tags/sports/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Baseball Modeling Part 1: Data</title>
-      <link>http://localhost:1311/articles/baseball-modeling-part-1/</link>
+      <link>https://lucaspauker.com/articles/baseball-modeling-part-1/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/articles/baseball-modeling-part-1/</guid>
+      <guid>https://lucaspauker.com/articles/baseball-modeling-part-1/</guid>
       <description>Home runs Since baseball season starts in under a month, I want to create a model for some aspect of baseball. Last year, I made a model to predict the probability that one team wins over another team. However, to calculate that probability accurately, one needs to take into account a lot of variables. This time I want to model something that has less variables. I chose to model player home run probabilities for a game.</description>
     </item>
   </channel>

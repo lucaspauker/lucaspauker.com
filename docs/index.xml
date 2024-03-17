@@ -2,191 +2,191 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Lucas Pauker</title>
-    <link>http://localhost:1311/</link>
+    <link>https://lucaspauker.com/</link>
     <description>Recent content on Lucas Pauker</description>
     <image>
       <title>Lucas Pauker</title>
-      <url>http://localhost:1311/images/papermod-cover.png</url>
-      <link>http://localhost:1311/images/papermod-cover.png</link>
+      <url>https://lucaspauker.com/images/papermod-cover.png</url>
+      <link>https://lucaspauker.com/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1311/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lucaspauker.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Baseball Modeling Part 1: Data</title>
-      <link>http://localhost:1311/articles/baseball-modeling-part-1/</link>
+      <link>https://lucaspauker.com/articles/baseball-modeling-part-1/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/articles/baseball-modeling-part-1/</guid>
+      <guid>https://lucaspauker.com/articles/baseball-modeling-part-1/</guid>
       <description>Home runs Since baseball season starts in under a month, I want to create a model for some aspect of baseball. Last year, I made a model to predict the probability that one team wins over another team. However, to calculate that probability accurately, one needs to take into account a lot of variables. This time I want to model something that has less variables. I chose to model player home run probabilities for a game.</description>
     </item>
     <item>
       <title>OpenAI Model Timing</title>
-      <link>http://localhost:1311/articles/openai-model-timing/</link>
+      <link>https://lucaspauker.com/articles/openai-model-timing/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/articles/openai-model-timing/</guid>
+      <guid>https://lucaspauker.com/articles/openai-model-timing/</guid>
       <description>Introduction The goal of this article is to explore the latency of different OpenAI models. When using AI models in production, latency is an important factor to consider.
 Comparing Model Architectures First, I test the latency for different OpenAI models. I test the following models: gpt-4, gpt-4-0613, gpt-3.5-turbo, gpt-3.5-turbo-0613, gpt-3.5-turbo-16k, gpt-3.5-turbo-16k-0613, text-davinci-003, text-davinci-002, text-davinci-001, text-curie-001, text-babbage-001, text-ada-001, davinci-002, babbage-002, davinci, curie, babbage, and ada. These are all the OpenAI models that are available for inference through the chat and completions endpoints.</description>
     </item>
     <item>
       <title>LLMs Unleashed: The Power of Fine-Tuning</title>
-      <link>http://localhost:1311/articles/llms-unleashed-the-power-of-fine-tuning/</link>
+      <link>https://lucaspauker.com/articles/llms-unleashed-the-power-of-fine-tuning/</link>
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/articles/llms-unleashed-the-power-of-fine-tuning/</guid>
+      <guid>https://lucaspauker.com/articles/llms-unleashed-the-power-of-fine-tuning/</guid>
       <description>Disclaimer: This article mentions https://terra-cotta.ai/, an LLM experimentation platform I am building
 Introduction ChatGPT, Bard, and other large language models (LLMs) are very useful for a wide variety of tasks from writing code to answering complex questions to aiding with education. However, these models are ultimately limited by the data that they are trained on. Also, these models are trained to be able to answer a wide variety of questions which may not be sufficient for domain-specific questions.</description>
     </item>
     <item>
       <title>50 AI Applications</title>
-      <link>http://localhost:1311/articles/50-practical-applications-of-artificial-intelligence-and-language-models/</link>
+      <link>https://lucaspauker.com/articles/50-practical-applications-of-artificial-intelligence-and-language-models/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/articles/50-practical-applications-of-artificial-intelligence-and-language-models/</guid>
+      <guid>https://lucaspauker.com/articles/50-practical-applications-of-artificial-intelligence-and-language-models/</guid>
       <description>Advancements in artificial intelligence and language models have made significant impacts in various fields from healthcare to finance to entertainment. Here are 50 practical applications of AI that are currently in use or have the potential to be implemented in various industries. Let me know if any of these ideas inspire you or if you build any of them!
 Text Analysis Automatically generate outlines or summaries of news articles. Find fake news and provide a citation with the real source.</description>
     </item>
     <item>
       <title>Challenges facing H-2A Farmers and Workers</title>
-      <link>http://localhost:1311/articles/challenges-facing-h-2a-farmers-and-workers/</link>
+      <link>https://lucaspauker.com/articles/challenges-facing-h-2a-farmers-and-workers/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/articles/challenges-facing-h-2a-farmers-and-workers/</guid>
+      <guid>https://lucaspauker.com/articles/challenges-facing-h-2a-farmers-and-workers/</guid>
       <description>Below are reflections of our startup journey participating in the Floodgate Reactor Program. We have strong opinions, loosely held and while these opinions reflect our current state of mind and understanding of the world might change as we continue our entrepreneurial journeys.
 Introduction H-2A is a US government program that allows farmers to bring foreign seasonal agricultural labor to the US. To learn more about the H-2A program, check out our other blog posts or the link here.</description>
     </item>
     <item>
       <title>Navigating the Idea Maze</title>
-      <link>http://localhost:1311/articles/the-process-of-narrowing-down-an-idea-and-navigating-the-idea-maze/</link>
+      <link>https://lucaspauker.com/articles/the-process-of-narrowing-down-an-idea-and-navigating-the-idea-maze/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/articles/the-process-of-narrowing-down-an-idea-and-navigating-the-idea-maze/</guid>
+      <guid>https://lucaspauker.com/articles/the-process-of-narrowing-down-an-idea-and-navigating-the-idea-maze/</guid>
       <description>At the beginning of 2022, we began the Floodgate Reactor program with the hopes of finding a successful startup idea and learning how to build a successful company. We started the program with an idea in cybersecurity related to vulnerability patch management. By the end of the summer, we were working on an idea that focused on solving farmer labor shortages and building a global talent marketplace. In this blog post, we will discuss our journey and how our ideas changed over time.</description>
     </item>
     <item>
       <title>What Should Change in H-2A?</title>
-      <link>http://localhost:1311/articles/what-should-change-in-h-2a/</link>
+      <link>https://lucaspauker.com/articles/what-should-change-in-h-2a/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/articles/what-should-change-in-h-2a/</guid>
+      <guid>https://lucaspauker.com/articles/what-should-change-in-h-2a/</guid>
       <description>Below are reflections of our startup journey participating in the Floodgate Reactor Program. We have strong opinions, loosely held and while these opinions reflect our current state of mind and understanding of the world might change as we continue our entrepreneurial journeys.
 Introduction H-2A is a US government program that allows farmers to bring foreign seasonal agricultural labor to the US. To learn more about the H-2A program, check out our other blog posts or the link here.</description>
     </item>
     <item>
       <title>What We Learned from Floodgate&#39;s Summer Accelerator</title>
-      <link>http://localhost:1311/articles/lessons-from-floodgate-s-summer-accelerator/</link>
+      <link>https://lucaspauker.com/articles/lessons-from-floodgate-s-summer-accelerator/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/articles/lessons-from-floodgate-s-summer-accelerator/</guid>
+      <guid>https://lucaspauker.com/articles/lessons-from-floodgate-s-summer-accelerator/</guid>
       <description>Introduction Everyone has a framework, a basis by which they make decisions and navigate the uncertainty of the world. Frameworks are developed over time through knowledge and experience. Learning is a process in which we can incorporate new knowledge and experience into our existing framework. Working on a startup opened the floodgates to new knowledge and experience rushing into our frameworks about building a company. In a small amount of time, it allowed us to understand how to rapidly gain new experience and knowledge….</description>
     </item>
     <item>
       <title>Why H-2A is Important</title>
-      <link>http://localhost:1311/articles/why-is-h-2a-important/</link>
+      <link>https://lucaspauker.com/articles/why-is-h-2a-important/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/articles/why-is-h-2a-important/</guid>
+      <guid>https://lucaspauker.com/articles/why-is-h-2a-important/</guid>
       <description>In this blog post, we will explain why H-2A is a crucial program that supports the livelihood of countless farmers and workers.
 H-2A is a US government program that allows farmers to bring foreign seasonal agricultural labor to the US. In 2021, over 300,000 workers came to the US under this program and over 16,000 farms across the country used the program. The H-2A visa lets workers stay in the US for one year, but this can be extended for up to three years.</description>
     </item>
     <item>
       <title>Restoring a Bike</title>
-      <link>http://localhost:1311/articles/lessons-learned-from-restoring-a-bike/</link>
+      <link>https://lucaspauker.com/articles/lessons-learned-from-restoring-a-bike/</link>
       <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/articles/lessons-learned-from-restoring-a-bike/</guid>
+      <guid>https://lucaspauker.com/articles/lessons-learned-from-restoring-a-bike/</guid>
       <description>Introduction I recently decided to restore an old Peugeot bike. I wanted to have a nice fixed gear bike to ride and learn more about how bikes work.
 The bike before restoration.
 In this blog post, I&amp;rsquo;ll talk about the process for disassembling the bike, repainting the frame, and assembling it again. I&amp;rsquo;ll also talk about some mistakes I made and lessons I learned that could be useful for someone attempting a similar project.</description>
     </item>
     <item>
       <title>Blackjack Reinforcement Learning</title>
-      <link>http://localhost:1311/articles/reinforcement-learning-applied-to-blackjack/</link>
+      <link>https://lucaspauker.com/articles/reinforcement-learning-applied-to-blackjack/</link>
       <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/articles/reinforcement-learning-applied-to-blackjack/</guid>
+      <guid>https://lucaspauker.com/articles/reinforcement-learning-applied-to-blackjack/</guid>
       <description>Introduction I recently read Ed Thorpe&amp;rsquo;s Beat the Dealer, a book about how Thorpe, a mathematician, found a way to gain an edge in blackjack. In the book, Thorpe uses computer simulations to calculate the best blackjack strategy as well as card-counting strategies. Since I took a reinforcement learning class last quarter, I wanted to apply one of the most common algorithms, Q-learning, to to find the best strategy for blackjack.</description>
     </item>
     <item>
       <title>Achieving Quantum Supremacy, Qubit by Qubit</title>
-      <link>http://localhost:1311/articles/achieving-quantum-supremacy-qubit-by-qubit/</link>
+      <link>https://lucaspauker.com/articles/achieving-quantum-supremacy-qubit-by-qubit/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/articles/achieving-quantum-supremacy-qubit-by-qubit/</guid>
+      <guid>https://lucaspauker.com/articles/achieving-quantum-supremacy-qubit-by-qubit/</guid>
       <description>Faster than a Supercomputer? In the 1980s, American physicist Richard Feynman proposed the idea of quantum computers to model complex quantum systems. In October 2019, around 40 years later, Google AI and NASA scientists unveiled a quantum computer which ran an experiment in a few minutes that would take the fastest supercomputer 10,000 years. The quantum computer sped up the computation by a factor of 1 billion! This was one of the first major successes in the nascent field of quantum computing.</description>
     </item>
     <item>
       <title>Simple Stock Market Models with Python</title>
-      <link>http://localhost:1311/articles/simple-stock-market-models-with-python/</link>
+      <link>https://lucaspauker.com/articles/simple-stock-market-models-with-python/</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/articles/simple-stock-market-models-with-python/</guid>
+      <guid>https://lucaspauker.com/articles/simple-stock-market-models-with-python/</guid>
       <description>Introduction In this blog post, I will implement a few simple time series models of a stock price over time. I will also see how they do if we trade using them. We will look at moving averages (MA) and exponential moving averages (EMA).
 Data First, we need to download the price data. For this article, we will use SPY historical open price data. We can download this from Yahoo Finance.</description>
     </item>
     <item>
       <title>US Treasury Futures Delivery Options</title>
-      <link>http://localhost:1311/articles/us-treasury-futures-delivery-options/</link>
+      <link>https://lucaspauker.com/articles/us-treasury-futures-delivery-options/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/articles/us-treasury-futures-delivery-options/</guid>
+      <guid>https://lucaspauker.com/articles/us-treasury-futures-delivery-options/</guid>
       <description>Introduction This blog post will discuss the delivery options for someone who is short US Treasury (UST) futures contracts. During the last month of trading, the short &amp;ldquo;delivers&amp;rdquo; the USTs specified in the futures contract to the long. The short has various options when they make delivery of the treasuries. Understanding these options is interesting and important for anyone who trades UST futures and the UST basis.
 UST futures are some of the most liquid financial contracts in the world.</description>
     </item>
     <item>
       <title>Timekeeping in Financial Exchanges</title>
-      <link>http://localhost:1311/articles/timekeeping-in-financial-exchanges/</link>
+      <link>https://lucaspauker.com/articles/timekeeping-in-financial-exchanges/</link>
       <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/articles/timekeeping-in-financial-exchanges/</guid>
+      <guid>https://lucaspauker.com/articles/timekeeping-in-financial-exchanges/</guid>
       <description>Why Exchange Clocks Matter In high frequency trading (HFT), time is literally money. An edge of a few microseconds could translate to millions in profits. The most popular markets for cash products (equity, bonds, etc.) are in New York (NYSE, Nasdaq), while the most popular futures and options market is in Chicago (CME). Since cash and futures influence each other, getting data between New York and Chicago as fast as possible is important.</description>
     </item>
     <item>
       <title>Why do Musical Scales Have Certain Numbers of Notes?</title>
-      <link>http://localhost:1311/articles/why-do-musical-scales-have-certain-numbers-of-notes/</link>
+      <link>https://lucaspauker.com/articles/why-do-musical-scales-have-certain-numbers-of-notes/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/articles/why-do-musical-scales-have-certain-numbers-of-notes/</guid>
+      <guid>https://lucaspauker.com/articles/why-do-musical-scales-have-certain-numbers-of-notes/</guid>
       <description>The Question I, like many others, started learning to play piano when I was around 8 years old. I took lessons, learned songs, and gained an appreciation for the instrument. I have been playing (with some breaks) until today. Although I have been playing for a while, it wasn’t until taking my first music theory class in college that I started thinking deeply about why music is constructed in the way it is.</description>
     </item>
     <item>
       <title>Solar Flare Time Series Research</title>
-      <link>http://localhost:1311/articles/understanding-solar-flares-with-time-series-data/</link>
+      <link>https://lucaspauker.com/articles/understanding-solar-flares-with-time-series-data/</link>
       <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/articles/understanding-solar-flares-with-time-series-data/</guid>
+      <guid>https://lucaspauker.com/articles/understanding-solar-flares-with-time-series-data/</guid>
       <description>Introduction I spent the summer of 2019 as a physics research intern at the Stanford University Solar Lab. I was very fortunate to have a wonderful advisor and had a great summer overall. I created machine learning models to characterize time series data for solar flare prediction. In this article, I will first provide some physics background about solar flares, then dive into my research. For a more in-depth analysis, check out the source code and my poster.</description>
     </item>
     <item>
       <title>Random Number Generator with Pi</title>
-      <link>http://localhost:1311/articles/random-number-generator-with-pi/</link>
+      <link>https://lucaspauker.com/articles/random-number-generator-with-pi/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/articles/random-number-generator-with-pi/</guid>
+      <guid>https://lucaspauker.com/articles/random-number-generator-with-pi/</guid>
       <description>Recently, I wondered if I could create a random number generator using the digits of pi.
 Disclaimer: this article&amp;rsquo;s purpose is not to create a computationally efficient random number generator; it is just a fun proof of concept.
 In order to create a random number generator with pi, we must first verify that the digits of pi are randomly distributed. This can be accomplished in a few lines of python code.</description>
     </item>
     <item>
       <title>Classical Music Classifier Project</title>
-      <link>http://localhost:1311/articles/music-matcher/</link>
+      <link>https://lucaspauker.com/articles/music-matcher/</link>
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/articles/music-matcher/</guid>
+      <guid>https://lucaspauker.com/articles/music-matcher/</guid>
       <description>Introduction This project done for my CS221 class aims to classify classical music by musical era (Baroque, Classical, Romantic, Modern) with composers as a proxy.
 Using audio processing techniques, such as Short-time Fourier Transform, we extracted features such as the spectrogram and chromagram of the audio data from two datasets, Free Music Archive and MAESTRO.
 We used two ensemble classifiers, AdaBoost and Random Forest, and found that although Adaboost performed marginally better than Random Forest, the latter made more generalizable predictions.</description>
     </item>
     <item>
       <title>Recurrent Neural Networks for Song Lyrics</title>
-      <link>http://localhost:1311/articles/recurrent-neural-networks-for-song-lyrics/</link>
+      <link>https://lucaspauker.com/articles/recurrent-neural-networks-for-song-lyrics/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/articles/recurrent-neural-networks-for-song-lyrics/</guid>
+      <guid>https://lucaspauker.com/articles/recurrent-neural-networks-for-song-lyrics/</guid>
       <description>Introduction I recently became interested in neural networks and sought interesting applications of what they could do. Neural networks are based on how the human brain works; the networks are made up of many nodes that take inputs and predict outputs. Over time, with more data, the networks improve by correcting for error, known as backpropagation. Neural networks become especially useful when there are many “layers” between the input and output that allow for more fine-tuned fitting of data.</description>
     </item>
     <item>
       <title>Automatic DJ Project</title>
-      <link>http://localhost:1311/articles/automatic-dj/</link>
+      <link>https://lucaspauker.com/articles/automatic-dj/</link>
       <pubDate>Sun, 24 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/articles/automatic-dj/</guid>
+      <guid>https://lucaspauker.com/articles/automatic-dj/</guid>
       <description>This project done for my CS106X class mixes two given mp3 files together and has a visualization to go with it.
 Introduction I have always been awestruck by DJing and have had little idea of how it is done. I set out to create a python script to mix songs to understand the process a bit better. I first found that DJs use many effects in their mixes. These effects include changing tempo of songs, changing the pitch, as well as adding noises from other tracks.</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1311/about/</link>
+      <link>https://lucaspauker.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/about/</guid>
+      <guid>https://lucaspauker.com/about/</guid>
       <description>about</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1311/projects/</link>
+      <link>https://lucaspauker.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/projects/</guid>
+      <guid>https://lucaspauker.com/projects/</guid>
       <description>My projects</description>
     </item>
   </channel>

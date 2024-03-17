@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>RL on Lucas Pauker</title>
-    <link>http://localhost:1311/tags/rl/</link>
+    <link>https://lucaspauker.com/tags/rl/</link>
     <description>Recent content in RL on Lucas Pauker</description>
     <image>
       <title>Lucas Pauker</title>
-      <url>http://localhost:1311/images/papermod-cover.png</url>
-      <link>http://localhost:1311/images/papermod-cover.png</link>
+      <url>https://lucaspauker.com/images/papermod-cover.png</url>
+      <link>https://lucaspauker.com/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1311/tags/rl/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lucaspauker.com/tags/rl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blackjack Reinforcement Learning</title>
-      <link>http://localhost:1311/articles/reinforcement-learning-applied-to-blackjack/</link>
+      <link>https://lucaspauker.com/articles/reinforcement-learning-applied-to-blackjack/</link>
       <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1311/articles/reinforcement-learning-applied-to-blackjack/</guid>
+      <guid>https://lucaspauker.com/articles/reinforcement-learning-applied-to-blackjack/</guid>
       <description>Introduction I recently read Ed Thorpe&amp;rsquo;s Beat the Dealer, a book about how Thorpe, a mathematician, found a way to gain an edge in blackjack. In the book, Thorpe uses computer simulations to calculate the best blackjack strategy as well as card-counting strategies. Since I took a reinforcement learning class last quarter, I wanted to apply one of the most common algorithms, Q-learning, to to find the best strategy for blackjack.</description>
     </item>
   </channel>
