@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Science on Lucas Pauker</title>
-    <link>https://lucaspauker.github.io/tags/science/</link>
+    <link>http://localhost:1311/tags/science/</link>
     <description>Recent content in Science on Lucas Pauker</description>
     <image>
       <title>Lucas Pauker</title>
-      <url>https://lucaspauker.github.io/images/papermod-cover.png</url>
-      <link>https://lucaspauker.github.io/images/papermod-cover.png</link>
+      <url>http://localhost:1311/images/papermod-cover.png</url>
+      <link>http://localhost:1311/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lucaspauker.github.io/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1311/tags/science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Achieving Quantum Supremacy, Qubit by Qubit</title>
-      <link>https://lucaspauker.github.io/articles/achieving-quantum-supremacy-qubit-by-qubit/</link>
+      <link>http://localhost:1311/articles/achieving-quantum-supremacy-qubit-by-qubit/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://lucaspauker.github.io/articles/achieving-quantum-supremacy-qubit-by-qubit/</guid>
+      <guid>http://localhost:1311/articles/achieving-quantum-supremacy-qubit-by-qubit/</guid>
       <description>Faster than a Supercomputer? In the 1980s, American physicist Richard Feynman proposed the idea of quantum computers to model complex quantum systems. In October 2019, around 40 years later, Google AI and NASA scientists unveiled a quantum computer which ran an experiment in a few minutes that would take the fastest supercomputer 10,000 years. The quantum computer sped up the computation by a factor of 1 billion! This was one of the first major successes in the nascent field of quantum computing.</description>
     </item>
     <item>
       <title>Solar Flare Time Series Research</title>
-      <link>https://lucaspauker.github.io/articles/understanding-solar-flares-with-time-series-data/</link>
+      <link>http://localhost:1311/articles/understanding-solar-flares-with-time-series-data/</link>
       <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://lucaspauker.github.io/articles/understanding-solar-flares-with-time-series-data/</guid>
+      <guid>http://localhost:1311/articles/understanding-solar-flares-with-time-series-data/</guid>
       <description>Introduction I spent the summer of 2019 as a physics research intern at the Stanford University Solar Lab. I was very fortunate to have a wonderful advisor and had a great summer overall. I created machine learning models to characterize time series data for solar flare prediction. In this article, I will first provide some physics background about solar flares, then dive into my research. For a more in-depth analysis, check out the source code and my poster.</description>
     </item>
   </channel>

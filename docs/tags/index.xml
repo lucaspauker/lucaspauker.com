@@ -2,64 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Lucas Pauker</title>
-    <link>https://lucaspauker.github.io/tags/</link>
+    <link>http://localhost:1311/tags/</link>
     <description>Recent content in Tags on Lucas Pauker</description>
     <image>
       <title>Lucas Pauker</title>
-      <url>https://lucaspauker.github.io/images/papermod-cover.png</url>
-      <link>https://lucaspauker.github.io/images/papermod-cover.png</link>
+      <url>http://localhost:1311/images/papermod-cover.png</url>
+      <link>http://localhost:1311/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lucaspauker.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1311/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AI</title>
-      <link>https://lucaspauker.github.io/tags/ai/</link>
-      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://lucaspauker.github.io/tags/ai/</guid>
+      <title>Baseball</title>
+      <link>http://localhost:1311/tags/baseball/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1311/tags/baseball/</guid>
       <description></description>
     </item>
     <item>
       <title>CS</title>
-      <link>https://lucaspauker.github.io/tags/cs/</link>
+      <link>http://localhost:1311/tags/cs/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1311/tags/cs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sports</title>
+      <link>http://localhost:1311/tags/sports/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1311/tags/sports/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1311/tags/ai/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://lucaspauker.github.io/tags/cs/</guid>
+      <guid>http://localhost:1311/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>H-2A</title>
-      <link>https://lucaspauker.github.io/tags/h-2a/</link>
+      <link>http://localhost:1311/tags/h-2a/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://lucaspauker.github.io/tags/h-2a/</guid>
+      <guid>http://localhost:1311/tags/h-2a/</guid>
       <description></description>
     </item>
     <item>
       <title>RL</title>
-      <link>https://lucaspauker.github.io/tags/rl/</link>
+      <link>http://localhost:1311/tags/rl/</link>
       <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://lucaspauker.github.io/tags/rl/</guid>
+      <guid>http://localhost:1311/tags/rl/</guid>
       <description></description>
     </item>
     <item>
       <title>Science</title>
-      <link>https://lucaspauker.github.io/tags/science/</link>
+      <link>http://localhost:1311/tags/science/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://lucaspauker.github.io/tags/science/</guid>
+      <guid>http://localhost:1311/tags/science/</guid>
       <description></description>
     </item>
     <item>
       <title>Finance</title>
-      <link>https://lucaspauker.github.io/tags/finance/</link>
+      <link>http://localhost:1311/tags/finance/</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://lucaspauker.github.io/tags/finance/</guid>
+      <guid>http://localhost:1311/tags/finance/</guid>
       <description></description>
     </item>
     <item>
       <title>Music</title>
-      <link>https://lucaspauker.github.io/tags/music/</link>
+      <link>http://localhost:1311/tags/music/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://lucaspauker.github.io/tags/music/</guid>
+      <guid>http://localhost:1311/tags/music/</guid>
       <description></description>
     </item>
   </channel>
