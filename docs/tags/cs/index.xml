@@ -11,15 +11,8 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lucaspauker.com/tags/cs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Baseball Modeling Part 1: Data</title>
-      <link>https://lucaspauker.com/articles/baseball-modeling-part-1/</link>
-      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://lucaspauker.com/articles/baseball-modeling-part-1/</guid>
-      <description>Home runs Since baseball season starts in under a month, I want to create a model for some aspect of baseball. Last year, I made a model to predict the probability that one team wins over another team. However, to calculate that probability accurately, one needs to take into account a lot of variables. This time I want to model something that has less variables. I chose to model player home run probabilities for a game.</description>
-    </item>
     <item>
       <title>OpenAI Model Timing</title>
       <link>https://lucaspauker.com/articles/openai-model-timing/</link>
