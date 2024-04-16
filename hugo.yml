@@ -20,8 +20,8 @@ languages:
 
 menu:
   main:
-    - identifier: home
-      name: Home
+    - identifier: blog
+      name: Blog
       url: /
       weight: 10
     - identifier: about

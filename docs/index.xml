@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lucaspauker.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home Run Modeling Part 1: Base Model</title>
+      <link>https://lucaspauker.com/articles/home-run-modeling-part-1/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://lucaspauker.com/articles/home-run-modeling-part-1/</guid>
+      <description>Why home runs? Some of the best moments in baseball games are home runs. Something about hitting the ball out of the park is satisfying. Since baseball season just started, I wanted to model a part of the game. I decided to model home runs since they are pretty rare events but should still be able to be accurately predicted. When I say accurately predicted, I mean that we can accurately predict the probability of a player hitting a home run.</description>
+    </item>
     <item>
       <title>OpenAI Model Timing</title>
       <link>https://lucaspauker.com/articles/openai-model-timing/</link>
