@@ -1,5 +1,5 @@
 ---
-title: "Home Run Modeling Part 1: Base Model"
+title: "Home Run Modeling: Base Model"
 date: 2024-02-28
 draft: false
 tags: ["sports", "baseball", "cs"]
