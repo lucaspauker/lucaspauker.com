@@ -1,6 +1,6 @@
 ---
 title: "Why Gambling is (more) Rational (than you think)"
-date: 2025-01-16
+date: 2025-01-25
 draft: false
 ---
 
