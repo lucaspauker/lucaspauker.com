@@ -3,15 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lucaspauker.com/articles/</loc>
-    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lucaspauker.com/</loc>
+    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lucaspauker.com/articles/gambling-rationality/</loc>
+    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lucaspauker.com/tags/charity/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lucaspauker.com/articles/charity-calculator/</loc>
-    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucaspauker.com/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lucaspauker.com/tags/modeling/</loc>
@@ -26,7 +29,7 @@
     <loc>https://lucaspauker.com/tags/cs/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lucaspauker.com/articles/home-run-modeling-part-1/</loc>
+    <loc>https://lucaspauker.com/articles/home-run-modeling/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lucaspauker.com/tags/sports/</loc>

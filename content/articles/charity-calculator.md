@@ -22,7 +22,6 @@ tags: ["charity", "modeling"]
     .widget-container-inner { margin: 32px; }
 </style>
 
-## Introduction
 With holiday season in full swing, people may be more enticed to give to charity. However, there is a question of how to optimize your charitable donations. Specifically, I would like to optimize charitable donations for maximum impact. It seems to me that there are two parts to this equation:
 
 1. Which charity(ies)/cause(s) should I give to
