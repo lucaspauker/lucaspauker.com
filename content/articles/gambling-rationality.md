@@ -109,6 +109,10 @@ This means that the gambler gets more utility from being rich than from being po
 
 ![Gambler marginal utility](/images/gambling/gambler_marginal_utility.png#center)
 
+With this marginal utility curve, the utility of making a bet becomes
+$$ \Delta U(\text{making bet}) = p_\text{win} * \Delta U(\text{win payout}) + (1-p_\text{win}) * \Delta U(\text{losing bet}) > 0, $$
+meaning that taking a bet is positive EV in utility, even though the gambler is expected to lose money.
+
 The question is why would someone have a utility function like this?
 In general, the reason is that the utility of money is based on what you can spend with the money.
 
