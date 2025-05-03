@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lucaspauker.com/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Newber</title>
+      <link>https://lucaspauker.com/articles/newber/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://lucaspauker.com/articles/newber/</guid>
+      <description>(draft) When I was at the airport looking to get a ride share back home I checked the price of Uber and Lyft. I noticed that an Uber was 25$ and a Lyft was 39$…that is a price difference of 14$, which is more than half the price of the Uber!! The Lyft ride was 56% more expensive…
+How can two multibillion publicly traded companies have such different pricing? Both companies have entire teams devoted to determining pricing, yet they are still so off!</description>
+    </item>
     <item>
       <title>Why Gambling is (more) Rational (than you think)</title>
       <link>https://lucaspauker.com/articles/gambling-rationality/</link>

@@ -3,10 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lucaspauker.com/articles/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lucaspauker.com/tags/finance/</loc>
+    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lucaspauker.com/tags/ideas/</loc>
+    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lucaspauker.com/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lucaspauker.com/tags/markets/</loc>
+    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lucaspauker.com/articles/newber/</loc>
+    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lucaspauker.com/tags/</loc>
+    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lucaspauker.com/articles/gambling-rationality/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
@@ -18,9 +33,6 @@
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lucaspauker.com/tags/modeling/</loc>
-    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucaspauker.com/tags/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lucaspauker.com/tags/baseball/</loc>
@@ -79,9 +91,6 @@
   </url><url>
     <loc>https://lucaspauker.com/tags/science/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucaspauker.com/tags/finance/</loc>
-    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lucaspauker.com/articles/simple-stock-market-models-with-python/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
