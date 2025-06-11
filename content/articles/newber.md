@@ -5,15 +5,14 @@ draft: false
 tags: ["ideas", "finance", "markets"]
 ---
 
-(draft)
-When I was at the airport looking to get a ride share back home I checked the price of Uber and Lyft. I noticed that an Uber was 25$ and a Lyft was 39$…that is a price difference of 14$, which is more than half the price of the Uber!! The Lyft ride was 56% more expensive…
+Recently, when I was at the airport looking to get a ride share back home I checked the price of both Uber and Lyft. I noticed that an Uber was 25$ and a Lyft was 39$…that is a price difference of 14$, or more than half the price of the Uber! The Lyft ride was 56% more expensive…
 
-How can two multibillion publicly traded companies have such different pricing? Both companies have entire teams devoted to determining pricing, yet they are still so off!
+How can two multibillion publicly traded companies have such different pricing? Both companies have entire teams devoted to determining pricing, yet they are still so off.
 
 ![AI car photo](/images/newber/ai_cars.png#center)
 _Rideshare cars photo from ChatGPT_
 
-At the end of the day, ride sharing is a market. The app connects riders (buyers of a service) to drivers (sellers of a service). However, this market is very different than most financial markets. Namely, each rider has a different start and end point. This means that rides are not fungible. Accurate pricing must include the start location, the end location, time of day, traffic, etc.
+At the end of the day, ride sharing is a market. The app connects riders (buyers of a service) to drivers (sellers of a service). However, this market is different than most financial markets. Namely, each rider has a different start and end point. This means that rides are not fungible. Accurate pricing must include the start location, the end location, time of day, traffic, etc.
 
 We propose a solution to have ride sharing pricing be discovered using a free market. By doing so, we can create the most accurate and fair pricing of any ride sharing app. Furthermore, since pricing is discovered using a market, we do not have to spend as many resources on price determination as other players in the space.
 
@@ -43,7 +42,7 @@ We want to have a more general formulation for getting fair prices.
 For each ride \\(i\\) that gets requested, we can list off the \\(n\\) features:
 $$F_i\in\mathbb{R}^n.$$
 The features can be arbitrary based on what we think is relevant for pricing.
-Now, in our marketplace, there will be agents that submit their predicted the price of a ride for a given set of features.
+Next, in our marketplace, there will be agents that submit their predicted the price of a ride for a given set of features.
 Each agent \\(k\\) has an algorithm that spits out a price:
 $$a_k(F_i)\in\mathbb{R}.$$
 Once a ride is completed, we observe the true transaction price \\(p_i\\).
@@ -55,7 +54,7 @@ Over time, agents who consistently predict well will earn more, while poorly per
 This structure turns price discovery into an open, competitive marketplace for algorithms. Rather than relying on a centralized pricing engine, the platform outsources the pricing function to a distributed set of market participants. Each participant contributes pricing intelligence based on different perspectives, models, or data sources, and is financially incentivized to be as accurate as possible.
 Importantly, this also allows the system to adapt dynamically. If traffic patterns shift due to a new road closure or there's an unexpected surge in demand near a stadium, agents that can quickly pick up these signals and adjust their pricing logic accordingly will profit. This creates a robust, decentralized forecasting mechanism that improves over time without centralized tuning.
 
-Now that we have a system for generating decentralized, competitive price predictions, we can layer a user experience (UX) on top that is intuitive and responsive to real-time market conditions.
+Now that we have a system for generating decentralized, competitive price predictions, we can layer a UX on top that is intuitive and responsive to real-time market conditions.
 When a rider opens the app and enters their desired destination, the app computes the ride's feature vector \\(F_i\\) and queries the pricing market. It displays the current predicted fair price based on the aggregate of agent submissions—this could be a median or weighted average of \\(a_k(F_i)\\) values.
 This could also be rated by the average reward of the algorithm to give more weight to the accurate algorithms.
 The rider can then choose to:
@@ -111,6 +110,6 @@ In the early phase of the platform, pricing agents may lack enough data to produ
 6. **Regulatory and legal constraints**:
 A fully decentralized pricing model could conflict with local regulations around transportation services, fare transparency, or algorithmic accountability. These systems would need to be carefully evaluated for legal compliance.
 
-![AI car photo with flames](/images/newber/ai_cars_flames.png#center)
-_AI cars with flames_
+![AI car photo with Newber](/images/newber/ai_cars_flames.png#center)
+_AI cars with Newber_
 
