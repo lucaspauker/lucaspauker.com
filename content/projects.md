@@ -5,13 +5,23 @@ summary: "My projects"
 ---
 
 Here are some of the projects I have made or worked on in the past few years.
-Check out my [GitHub](https://github.com/lucaspauker) for more.
+Check out my <a href="https://github.com/lucaspauker" target="_blank">GitHub</a> for more.
+
+---
+
+## Tonely
+
+Train your ear. Feel the music. Experience musical pitch through touch where Apple Watch haptics meet ear training.
+
+<a href="https://tonely.io" target="_blank">Tonely</a> is an ongoing research project exploring how haptic feedback might help people develop pitch recognition. It's part experiment, part tool, and part invitation. We're building in public.
+
+What if you could feel a perfect fifth? What if your wrist could help train your ear? We're exploring these questions one pulse at a time through three simple steps: Listen to musical intervals and notes, Feel corresponding haptic patterns on your wrist, and Learn to build pitch recognition through touch and sound. No music theory knowledge required.
 
 ---
 
 ## Terracotta AI
 
-[Terracotta](https://github.com/lucaspauker/terracotta_ai) is a platform for fine-tuning and evaluating large language models. With Terracotta, we make iterating on the LLM workflow quick and easy. Here are a few features that we have:
+<a href="https://github.com/lucaspauker/terracotta_ai" target="_blank">Terracotta</a> is a platform for fine-tuning and evaluating large language models. With Terracotta, we make iterating on the LLM workflow quick and easy. Here are a few features that we have:
 
 - Training: Users can upload a dataset and fine-tune different LLMs provided by OpenAI within minutes using our training dashboard.
 - Qualitative evaluation: A playground for qualitatively comparing base models vs. fine-tuned models from OpenAI and Cohere.
@@ -21,7 +31,7 @@ Check out my [GitHub](https://github.com/lucaspauker) for more.
 
 ## Lifta
 
-[Lifta](https://apps.apple.com/tr/app/lifta/id1644868249) is a free iOS app to track your lifting progress over time and display analytics about it. With Lifta, you can:
+<a href="https://apps.apple.com/tr/app/lifta/id1644868249" target="_blank">Lifta</a> is a free iOS app to track your lifting progress over time and display analytics about it. With Lifta, you can:
 - Record workouts when you go to the gym
 - See your past workouts
 - See graphs of specific workouts and sets/reps over time
@@ -33,7 +43,7 @@ Check out my [GitHub](https://github.com/lucaspauker) for more.
 
 ## H-2A Vision
 
-[H-2A Vision](https://github.com/lucaspauker/h2a-vision) is a free tool for easily finding information about H-2A violations. This website can be used by people looking for H-2A work who want to search potential employers. This website can also be used people researching H-2A. The data is from the US Department of Labor Wage and Hour Division.
+<a href="https://github.com/lucaspauker/h2a-vision" target="_blank">H-2A Vision</a> is a free tool for easily finding information about H-2A violations. This website can be used by people looking for H-2A work who want to search potential employers. This website can also be used people researching H-2A. The data is from the US Department of Labor Wage and Hour Division.
 
 ---
 
@@ -49,7 +59,7 @@ Check out my [GitHub](https://github.com/lucaspauker) for more.
 
 ## Solar physics research
 
-- [Predicting Solar Flares Using Time Series Analysis Paper](https://iopscience.iop.org/article/10.3847/2515-5172/ab4db0)
-- [Time Series Analysis of Flaring Active Regions Poster](https://iopscience.iop.org/article/10.3847/2515-5172/ab4db0)
+- <a href="https://iopscience.iop.org/article/10.3847/2515-5172/ab4db0" target="_blank">Predicting Solar Flares Using Time Series Analysis Paper</a>
+- <a href="https://iopscience.iop.org/article/10.3847/2515-5172/ab4db0" target="_blank">Time Series Analysis of Flaring Active Regions Poster</a>
 - [Magnetic Signatures of Sympathetic Flares Poster](/files/agu_poster_2020.pdf)
 
