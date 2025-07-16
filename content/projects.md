@@ -19,6 +19,14 @@ What if you could feel a perfect fifth? What if your wrist could help train your
 
 ---
 
+## StubScan
+
+Track the cheapest Lollapalooza tickets in real-time. <a href="https://stubscan.com/" target="_blank">StubScan</a> continuously scrapes major ticket marketplaces like Ticketmaster, comparing all available listings so you don't have to.
+
+Key features include real-time price tracking, historical price graphs to understand market trends, and custom price alerts that notify you when tickets hit your target price. StubScan helps you spot deals quickly with quantity, price, section, and timing data in one glance.
+
+---
+
 ## Terracotta AI
 
 <a href="https://github.com/lucaspauker/terracotta_ai" target="_blank">Terracotta</a> is a platform for fine-tuning and evaluating large language models. With Terracotta, we make iterating on the LLM workflow quick and easy. Here are a few features that we have:
