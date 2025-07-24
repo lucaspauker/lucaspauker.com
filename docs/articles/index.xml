@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lucaspauker.com/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Cognitive Load</title>
+      <link>https://lucaspauker.com/articles/ai-cognitive-load/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://lucaspauker.com/articles/ai-cognitive-load/</guid>
+      <description>People say AI helps you move faster. It does. But speed isn&amp;rsquo;t the whole story.
+The real benefit is that AI finishes your thoughts. You start writing or coding and it carries the thread to completion. That means less mental juggling, less half-baked ideas, less cognitive strain.
+AI is not just an accelerator, it is a way to reduce the cost of thinking. That is what actually makes you more productive.</description>
+    </item>
     <item>
       <title>Newber</title>
       <link>https://lucaspauker.com/articles/newber/</link>
