@@ -109,6 +109,16 @@ pre:hover .copy-code {
   max-width: 512px;
 }
 
+.small-image {
+  max-height: 384px;
+  max-width: 384px;
+}
+
+.tiny-image {
+  max-height: 256px;
+  max-width: 256px;
+}
+
 .post-entry:hover {
   box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 12px 0px;
 }
