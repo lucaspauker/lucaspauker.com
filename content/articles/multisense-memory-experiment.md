@@ -1,7 +1,7 @@
 ---
 title: "Can Multisensory Input Hack Your Memory?"
 date: 2025-08-25
-draft: true
+draft: false
 ---
 
 ## How to learn
