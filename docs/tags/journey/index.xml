@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Journey on Lucas Pauker</title>
-    <link>https://lucaspauker.com/tags/journey/</link>
+    <link>http://localhost:1313/tags/journey/</link>
     <description>Recent content in Journey on Lucas Pauker</description>
     <image>
       <title>Lucas Pauker</title>
-      <url>https://lucaspauker.com/images/papermod-cover.png</url>
-      <link>https://lucaspauker.com/images/papermod-cover.png</link>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 14 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lucaspauker.com/tags/journey/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/journey/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Golden City</title>
-      <link>https://lucaspauker.com/fiction/the-golden-city/</link>
+      <link>http://localhost:1313/fiction/the-golden-city/</link>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://lucaspauker.com/fiction/the-golden-city/</guid>
+      <guid>http://localhost:1313/fiction/the-golden-city/</guid>
       <description>He had chased the city for most of his life.
 It began with a rumor, tucked in the margins of an old book: a golden city, untouched by time, hidden beyond the last bend of the river. He was young then, and the idea took hold like a fever. Over the years, he followed maps that led nowhere, voices that faded into trees, and trails that vanished in the rain. But still, he pressed on, certain that one day the city would rise before him.</description>
     </item>

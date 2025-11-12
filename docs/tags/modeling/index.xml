@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Modeling on Lucas Pauker</title>
-    <link>https://lucaspauker.com/tags/modeling/</link>
+    <link>http://localhost:1313/tags/modeling/</link>
     <description>Recent content in Modeling on Lucas Pauker</description>
     <image>
       <title>Lucas Pauker</title>
-      <url>https://lucaspauker.com/images/papermod-cover.png</url>
-      <link>https://lucaspauker.com/images/papermod-cover.png</link>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 23 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lucaspauker.com/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Charity Calculator</title>
-      <link>https://lucaspauker.com/articles/charity-calculator/</link>
+      <link>http://localhost:1313/articles/charity-calculator/</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://lucaspauker.com/articles/charity-calculator/</guid>
+      <guid>http://localhost:1313/articles/charity-calculator/</guid>
       <description>With holiday season in full swing, people may be more enticed to give to charity. However, there is a question of how to optimize your charitable donations. Specifically, I would like to optimize charitable donations for maximum impact. It seems to me that there are two parts to this equation:
 Which charity(ies)/cause(s) should I give to How much should I give? The answer to the first question is deeply personal, so I want to focus on the second question.</description>
     </item>
