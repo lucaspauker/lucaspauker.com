@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/articles/</loc>
-    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/multisense-memory-experiment/</loc>
-    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/cs/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/programming/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/articles/your-prod-code-should-have-bugs/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/articles/multisense-memory-experiment/</loc>
     <lastmod>2025-08-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fiction/</loc>
@@ -18,9 +30,6 @@
     <lastmod>2025-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/short-story/</loc>
-    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fiction/the-golden-city/</loc>
@@ -62,13 +71,7 @@
     <loc>http://localhost:1313/tags/baseball/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cs/</loc>
-    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/articles/home-run-modeling/</loc>
-    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/your-prod-code-should-have-bugs/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sports/</loc>
