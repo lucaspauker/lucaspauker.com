@@ -24,6 +24,10 @@ menu:
       name: Blog
       url: /
       weight: 10
+    - identifier: fiction
+      name: Fiction
+      url: /fiction
+      weight: 15
     - identifier: about
       name: About me
       url: /about
