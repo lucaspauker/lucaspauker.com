@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lucaspauker.com/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your Prod Code Should Have Bugs</title>
+      <link>https://lucaspauker.com/articles/your-prod-code-should-have-bugs/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://lucaspauker.com/articles/your-prod-code-should-have-bugs/</guid>
+      <description>Debugging prod after shipping on Friday
+Your job as a software engineer Every line of production code is a bet on speed, safety, and correctness. When you ship software, you are balancing:
+Getting it done fast -&amp;gt; shipping faster means the feature appears earlier for customers and ultimately the business makes more money Not introducing bugs -&amp;gt; bugs can cause outages or other errors that lead to losses The problem is that anyone that has worked with software knows that no matter what, you cannot guarantee that your shipped software will not have bugs.</description>
+    </item>
     <item>
       <title>Can Multisensory Input Hack Your Memory?</title>
       <link>https://lucaspauker.com/articles/multisense-memory-experiment/</link>

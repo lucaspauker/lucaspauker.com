@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>CS on Lucas Pauker</title>
+    <title>Cs on Lucas Pauker</title>
     <link>https://lucaspauker.com/tags/cs/</link>
-    <description>Recent content in CS on Lucas Pauker</description>
+    <description>Recent content in Cs on Lucas Pauker</description>
     <image>
       <title>Lucas Pauker</title>
       <url>https://lucaspauker.com/images/papermod-cover.png</url>
@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lucaspauker.com/tags/cs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your Prod Code Should Have Bugs</title>
+      <link>https://lucaspauker.com/articles/your-prod-code-should-have-bugs/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://lucaspauker.com/articles/your-prod-code-should-have-bugs/</guid>
+      <description>Debugging prod after shipping on Friday
+Your job as a software engineer Every line of production code is a bet on speed, safety, and correctness. When you ship software, you are balancing:
+Getting it done fast -&amp;gt; shipping faster means the feature appears earlier for customers and ultimately the business makes more money Not introducing bugs -&amp;gt; bugs can cause outages or other errors that lead to losses The problem is that anyone that has worked with software knows that no matter what, you cannot guarantee that your shipped software will not have bugs.</description>
+    </item>
     <item>
       <title>Home Run Modeling</title>
       <link>https://lucaspauker.com/articles/home-run-modeling/</link>
