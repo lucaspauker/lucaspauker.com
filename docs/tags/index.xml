@@ -2,134 +2,134 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Lucas Pauker</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://lucaspauker.com/tags/</link>
     <description>Recent content in Tags on Lucas Pauker</description>
     <image>
       <title>Lucas Pauker</title>
-      <url>http://localhost:1313/images/papermod-cover.png</url>
-      <link>http://localhost:1313/images/papermod-cover.png</link>
+      <url>https://lucaspauker.com/images/papermod-cover.png</url>
+      <link>https://lucaspauker.com/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lucaspauker.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cs</title>
-      <link>http://localhost:1313/tags/cs/</link>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cs/</guid>
+      <link>https://lucaspauker.com/tags/cs/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://lucaspauker.com/tags/cs/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>http://localhost:1313/tags/programming/</link>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/programming/</guid>
+      <link>https://lucaspauker.com/tags/programming/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://lucaspauker.com/tags/programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Journey</title>
-      <link>http://localhost:1313/tags/journey/</link>
+      <link>https://lucaspauker.com/tags/journey/</link>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/journey/</guid>
+      <guid>https://lucaspauker.com/tags/journey/</guid>
       <description></description>
     </item>
     <item>
       <title>Short-Story</title>
-      <link>http://localhost:1313/tags/short-story/</link>
+      <link>https://lucaspauker.com/tags/short-story/</link>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/short-story/</guid>
+      <guid>https://lucaspauker.com/tags/short-story/</guid>
       <description></description>
     </item>
     <item>
       <title>Finance</title>
-      <link>http://localhost:1313/tags/finance/</link>
+      <link>https://lucaspauker.com/tags/finance/</link>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/finance/</guid>
+      <guid>https://lucaspauker.com/tags/finance/</guid>
       <description></description>
     </item>
     <item>
       <title>Ideas</title>
-      <link>http://localhost:1313/tags/ideas/</link>
+      <link>https://lucaspauker.com/tags/ideas/</link>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ideas/</guid>
+      <guid>https://lucaspauker.com/tags/ideas/</guid>
       <description></description>
     </item>
     <item>
       <title>Markets</title>
-      <link>http://localhost:1313/tags/markets/</link>
+      <link>https://lucaspauker.com/tags/markets/</link>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/markets/</guid>
+      <guid>https://lucaspauker.com/tags/markets/</guid>
       <description></description>
     </item>
     <item>
       <title>Charity</title>
-      <link>http://localhost:1313/tags/charity/</link>
+      <link>https://lucaspauker.com/tags/charity/</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/charity/</guid>
+      <guid>https://lucaspauker.com/tags/charity/</guid>
       <description></description>
     </item>
     <item>
       <title>Modeling</title>
-      <link>http://localhost:1313/tags/modeling/</link>
+      <link>https://lucaspauker.com/tags/modeling/</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/modeling/</guid>
+      <guid>https://lucaspauker.com/tags/modeling/</guid>
       <description></description>
     </item>
     <item>
       <title>Philosophy</title>
-      <link>http://localhost:1313/tags/philosophy/</link>
+      <link>https://lucaspauker.com/tags/philosophy/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/philosophy/</guid>
+      <guid>https://lucaspauker.com/tags/philosophy/</guid>
       <description></description>
     </item>
     <item>
       <title>Baseball</title>
-      <link>http://localhost:1313/tags/baseball/</link>
+      <link>https://lucaspauker.com/tags/baseball/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/baseball/</guid>
+      <guid>https://lucaspauker.com/tags/baseball/</guid>
       <description></description>
     </item>
     <item>
       <title>Sports</title>
-      <link>http://localhost:1313/tags/sports/</link>
+      <link>https://lucaspauker.com/tags/sports/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sports/</guid>
+      <guid>https://lucaspauker.com/tags/sports/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
+      <link>https://lucaspauker.com/tags/ai/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <guid>https://lucaspauker.com/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>H-2A</title>
-      <link>http://localhost:1313/tags/h-2a/</link>
+      <link>https://lucaspauker.com/tags/h-2a/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/h-2a/</guid>
+      <guid>https://lucaspauker.com/tags/h-2a/</guid>
       <description></description>
     </item>
     <item>
       <title>RL</title>
-      <link>http://localhost:1313/tags/rl/</link>
+      <link>https://lucaspauker.com/tags/rl/</link>
       <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/rl/</guid>
+      <guid>https://lucaspauker.com/tags/rl/</guid>
       <description></description>
     </item>
     <item>
       <title>Science</title>
-      <link>http://localhost:1313/tags/science/</link>
+      <link>https://lucaspauker.com/tags/science/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/science/</guid>
+      <guid>https://lucaspauker.com/tags/science/</guid>
       <description></description>
     </item>
     <item>
       <title>Music</title>
-      <link>http://localhost:1313/tags/music/</link>
+      <link>https://lucaspauker.com/tags/music/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/music/</guid>
+      <guid>https://lucaspauker.com/tags/music/</guid>
       <description></description>
     </item>
   </channel>

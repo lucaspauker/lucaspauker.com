@@ -32,11 +32,11 @@ Everyone gets a productivity boost from AI. But what you do with that boost make
 If your job is to complete tasks, AI helps you do them faster, which is a linear speed up.
 You are still doing one thing at a time, just more quickly.
 
-But if your job is to build systems, AI speeds up your whole loop: building, testing, automating, improving. You’re not just doing things faster—you’re creating systems that do things for you, again and again.
+But if your job is to build systems, AI speeds up your whole loop: building, testing, automating, improving. You’re not just doing things faster, you’re creating systems that do things for you, again and again.
 
 For example,
 - A marketer uses AI to write emails 2x faster. Helpful.
-- A builder uses AI to create an automated campaign engine that writes, personalizes, and sends emails while they sleep. Now every future campaign costs zero time—and scales.
+- A builder uses AI to create an automated campaign engine that writes, personalizes, and sends emails while they sleep. Now every future campaign costs zero time and scales.
 
 That’s the shift. The task-doer gets a time boost but the builder gets a leverage engine.
 

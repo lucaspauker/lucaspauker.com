@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Philosophy on Lucas Pauker</title>
-    <link>http://localhost:1313/tags/philosophy/</link>
+    <link>https://lucaspauker.com/tags/philosophy/</link>
     <description>Recent content in Philosophy on Lucas Pauker</description>
     <image>
       <title>Lucas Pauker</title>
-      <url>http://localhost:1313/images/papermod-cover.png</url>
-      <link>http://localhost:1313/images/papermod-cover.png</link>
+      <url>https://lucaspauker.com/images/papermod-cover.png</url>
+      <link>https://lucaspauker.com/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lucaspauker.com/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Searching</title>
-      <link>http://localhost:1313/fiction/searching-for-answers/</link>
+      <link>https://lucaspauker.com/fiction/searching-for-answers/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fiction/searching-for-answers/</guid>
+      <guid>https://lucaspauker.com/fiction/searching-for-answers/</guid>
       <description>This is a story about me. I wanted to know why we are here and how I should live my life since these questions have been bothering me lately.
 First, I went to a church. The priest told me that I needed to accept Jesus as the lord and savior. &amp;ldquo;But I&amp;rsquo;ve never even met Jesus, so how can he be my lord?&amp;rdquo; I thought.
 So I left the church and went to a synagogue where they told me about Jacob and Joseph and all the great miracles of God.</description>
