@@ -9,6 +9,19 @@ Check out my <a href="https://github.com/lucaspauker" target="_blank">GitHub</a>
 
 ---
 
+## Shared Garden
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="/images/sharedgarden_logo.svg" alt="Shared Garden logo" width="80" height="80" style="margin-right: 15px; border-radius: 12px; flex-shrink: 0;">
+<div>
+
+<a href="https://sharedgarden.io/" target="_blank">Shared Garden</a> is a collaborative, real-time multiplayer web application where users work together to tend a shared digital garden. Players choose from roles like Digger, Planter, Waterer, and Mender to perform gardening actions that affect the shared game state.
+
+</div>
+</div>
+
+---
+
 ## Tonely
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Three grass blades -->
+  <rect x="10" y="8" width="4" height="20" rx="2" fill="#7cb342" transform="rotate(-12 12 28)"/>
+  <rect x="14" y="4" width="4" height="26" rx="2" fill="#8bc34a"/>
+  <rect x="18" y="8" width="4" height="20" rx="2" fill="#7cb342" transform="rotate(12 20 28)"/>
+</svg>
