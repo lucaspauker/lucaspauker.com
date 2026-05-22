@@ -3,18 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lucaspauker.com/articles/</loc>
-    <lastmod>2026-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lucaspauker.com/tags/cs/</loc>
-    <lastmod>2026-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lucaspauker.com/</loc>
-    <lastmod>2026-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucaspauker.com/tags/programming/</loc>
-    <lastmod>2026-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lucaspauker.com/tags/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lucaspauker.com/articles/optimizing-for-the-wrong-metric/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lucaspauker.com/tags/programming/</loc>
     <lastmod>2026-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lucaspauker.com/articles/your-prod-code-should-have-bugs/</loc>

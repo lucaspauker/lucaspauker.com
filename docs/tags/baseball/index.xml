@@ -10,7 +10,7 @@
       <link>https://lucaspauker.com/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lucaspauker.com/tags/baseball/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -18,7 +18,15 @@
       <link>https://lucaspauker.com/articles/home-run-modeling/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://lucaspauker.com/articles/home-run-modeling/</guid>
-      <description>Why home runs? Some of the best moments in baseball games are home runs. Something about hitting the ball out of the park is satisfying. Since baseball season just started, I wanted to model a part of the game. I decided to model home runs since they are pretty rare events but should still be able to be accurately predicted. When I say accurately predicted, I mean that we can accurately predict the probability of a player hitting a home run.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://lucaspauker.com/images/baseball_modeling/header_image.png#center&#34; alt=&#34;Header image&#34;  /&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;why-home-runs&#34;&gt;Why home runs?&lt;/h2&gt;
+&lt;p&gt;Some of the best moments in baseball games are home runs.
+Something about hitting the ball out of the park is satisfying.
+Since baseball season just started, I wanted to model a part of the game.
+I decided to model home runs since they are pretty rare events but should still be able to be accurately predicted.
+When I say accurately predicted, I mean that we can accurately predict the probability of a player hitting a home run.
+At the end of the day, we can only compare to the true data&amp;hellip;but we have many years of baseball data (baseball is nice since there are very detailed statistics and metrics for each player for 100+ years).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -37,8 +37,6 @@ menu:
       url: /about
       weight: 30
 
-googleAnalytics: G-49CCEN1B6K
-
 minify:
   disableXML: true
   # minifyOutput: true
@@ -165,7 +163,9 @@ markup:
 #     privacyEnhanced: true
 
 services:
+  googleAnalytics:
+    ID: G-49CCEN1B6K
   instagram:
     disableInlineCSS: true
-  twitter:
+  x:
     disableInlineCSS: true

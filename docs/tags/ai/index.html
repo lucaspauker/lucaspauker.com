@@ -10,7 +10,7 @@
 <meta name="description" content="Lucas Pauker Personal Website">
 <meta name="author" content="Lucas Pauker">
 <link rel="canonical" href="https://lucaspauker.com/tags/ai/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.f325c31b16da0b4b26b7835a9331e5bc13ef1128a3a854d607432f38918e2230.css" integrity="sha256-8yXDGxbaC0smt4NakzHlvBPvESijqFTWB0MvOJGOIjA=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.748ae74bce974bb9d35b0d358defdf81e9042d71d914192f38dc8eea671e029b.css" integrity="sha256-dIrnS86XS7nTWw01je/fgekELXHZFBkvONyO6mceAps=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://lucaspauker.com/images/logo/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://lucaspauker.com/images/logo/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://lucaspauker.com/images/logo/favicon-32x32.png">
@@ -139,7 +139,8 @@
   </header>
   <div class="entry-content">
     <p>Introduction The goal of this article is to explore the latency of different OpenAI models. When using AI models in production, latency is an important factor to consider.
-Comparing Model Architectures First, I test the latency for different OpenAI models. I test the following models: gpt-4, gpt-4-0613, gpt-3.5-turbo, gpt-3.5-turbo-0613, gpt-3.5-turbo-16k, gpt-3.5-turbo-16k-0613, text-davinci-003, text-davinci-002, text-davinci-001, text-curie-001, text-babbage-001, text-ada-001, davinci-002, babbage-002, davinci, curie, babbage, and ada. These are all the OpenAI models that are available for inference through the chat and completions endpoints....</p>
+Comparing Model Architectures First, I test the latency for different OpenAI models. I test the following models: gpt-4, gpt-4-0613, gpt-3.5-turbo, gpt-3.5-turbo-0613, gpt-3.5-turbo-16k, gpt-3.5-turbo-16k-0613, text-davinci-003, text-davinci-002, text-davinci-001, text-curie-001, text-babbage-001, text-ada-001, davinci-002, babbage-002, davinci, curie, babbage, and ada. These are all the OpenAI models that are available for inference through the chat and completions endpoints. The models can be divided into chat models, instruct models, and base models. Chat models are gpt-4 and gpt-3.5 and are LLMs that are optimized for chat. Instruct models are models that are trained with reinforcement learning through human feedback to follow instructions [1].
+...</p>
   </div>
   <footer class="entry-footer"><span title='2023-10-15 00:00:00 +0000 UTC'>October 15, 2023</span>&nbsp;·&nbsp;4 min&nbsp;·&nbsp;Lucas Pauker</footer>
   <a class="entry-link" aria-label="post link to OpenAI Model Timing" href="https://lucaspauker.com/articles/openai-model-timing/"></a>
@@ -152,7 +153,8 @@ Comparing Model Architectures First, I test the latency for different OpenAI mod
   </header>
   <div class="entry-content">
     <p>Disclaimer: This article mentions https://terra-cotta.ai/, an LLM experimentation platform I am building
-Introduction ChatGPT, Bard, and other large language models (LLMs) are very useful for a wide variety of tasks from writing code to answering complex questions to aiding with education. However, these models are ultimately limited by the data that they are trained on. Also, these models are trained to be able to answer a wide variety of questions which may not be sufficient for domain-specific questions....</p>
+Introduction ChatGPT, Bard, and other large language models (LLMs) are very useful for a wide variety of tasks from writing code to answering complex questions to aiding with education. However, these models are ultimately limited by the data that they are trained on. Also, these models are trained to be able to answer a wide variety of questions which may not be sufficient for domain-specific questions. Fine-tuning is essential in order to make these models accurately answer domain-specific questions and be useful for difficult tasks. Furthermore, fine-tuning may be cheaper for inference.
+...</p>
   </div>
   <footer class="entry-footer"><span title='2023-07-23 00:00:00 +0000 UTC'>July 23, 2023</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;Lucas Pauker</footer>
   <a class="entry-link" aria-label="post link to LLMs Unleashed: The Power of Fine-Tuning" href="https://lucaspauker.com/articles/llms-unleashed-the-power-of-fine-tuning/"></a>
@@ -165,7 +167,7 @@ Introduction ChatGPT, Bard, and other large language models (LLMs) are very usef
   </header>
   <div class="entry-content">
     <p>Advancements in artificial intelligence and language models have made significant impacts in various fields from healthcare to finance to entertainment. Here are 50 practical applications of AI that are currently in use or have the potential to be implemented in various industries. Let me know if any of these ideas inspire you or if you build any of them!
-Text Analysis Automatically generate outlines or summaries of news articles. Find fake news and provide a citation with the real source....</p>
+Text Analysis Automatically generate outlines or summaries of news articles. Find fake news and provide a citation with the real source. Determine the political affiliation and bias of a news article. Generate better captions/subtitles for shows translated from foreign languages. Generate lyrics for songs based on a topic and song structure. Generate summary of court opinions or court transcripts to understand legal proceedings better. Annotate legal documents for specific clauses (https://github.com/lucaspauker/extract-contract). Find similar academic papers to an input prompt. Generate lyric annotations (like Genius) automatically by using information on the internet. Better Google search suggestions with language models. Generate personalized poems for someone. AI Assistance Generate code from comments or pseudocode. Translate code from one coding language to another. Generate automatic email reply suggestions based on your writing style. Generate a cover letter based on your resume and the company website you are applying for. Suggest edits to a paper like Grammarly. Automatically generate simple math questions (for example arithmetic word problems). Automatically grade essays or automatically grade the ACT/SAT writing section. Suggest next workout based on previous workouts and goals. For doctors, given a patient, find similar patients and summarize their diagnoses in order to help diagnose the patient. Generate slogan based on product description. Generate Latex notes from a transcript of a lecture. Generate presentation slides based on a paper. Write an abstract for an academic paper given the rest of the paper. Do a command on a browser given text input for example: “buy a plane ticket on United from SFO to ORD.” Autocomplete sentences in Google docs using AI. Travel and Leisure Generate travel itinerary based on user preferences. Generate meal plans based on caloric goals and food preferences. Suggest outfits to wear based on a user’s fashion preferences. Suggest meals based on ingredients someone has in their kitchen. Generate sports game commentary based on context of what’s happening in the game. Generate a text-based game with AI that has infinite possibilities. Automatically generate responses for video game characters using AI. Image Grade a student’s work with a picture of the student’s assignment and a picture of the answer key. Improve accessibility on the web by automatically generating captions for images. Convert handwritten text from an image to digital text. Diagnose medical conditions by analyzing medical images. Generate images for advertising campaigns based on existing images. Create design assets in Figma based on text ideas and pictures. Count the number of cars or buildings in satellite images. Video Generate a transcript by lip-reading a video. Create annotations for key events in a video. Detect and label important objects in video footage. Generate a Tinder profile based on someone’s Instagram profile. Increase the frame rate of animation by generating extra frames. Audio Generate lyrics from audio. Given audio and the lyrics, output the timestamp of each lyric. Transcribe speech from audio. Generate sheet music or MIDI from audio. Critique a song by analyzing its musical elements and style given audio. </p>
   </div>
   <footer class="entry-footer"><span title='2023-04-04 00:00:00 +0000 UTC'>April 4, 2023</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;Lucas Pauker</footer>
   <a class="entry-link" aria-label="post link to 50 AI Applications" href="https://lucaspauker.com/articles/50-practical-applications-of-artificial-intelligence-and-language-models/"></a>
@@ -177,7 +179,8 @@ Text Analysis Automatically generate outlines or summaries of news articles. Fin
     </h2>
   </header>
   <div class="entry-content">
-    <p>Introduction I recently read Ed Thorpe’s Beat the Dealer, a book about how Thorpe, a mathematician, found a way to gain an edge in blackjack. In the book, Thorpe uses computer simulations to calculate the best blackjack strategy as well as card-counting strategies. Since I took a reinforcement learning class last quarter, I wanted to apply one of the most common algorithms, Q-learning, to to find the best strategy for blackjack....</p>
+    <p>Introduction I recently read Ed Thorpe’s Beat the Dealer, a book about how Thorpe, a mathematician, found a way to gain an edge in blackjack. In the book, Thorpe uses computer simulations to calculate the best blackjack strategy as well as card-counting strategies. Since I took a reinforcement learning class last quarter, I wanted to apply one of the most common algorithms, Q-learning, to to find the best strategy for blackjack.
+...</p>
   </div>
   <footer class="entry-footer"><span title='2021-04-05 00:00:00 +0000 UTC'>April 5, 2021</span>&nbsp;·&nbsp;11 min&nbsp;·&nbsp;Lucas Pauker</footer>
   <a class="entry-link" aria-label="post link to Blackjack Reinforcement Learning" href="https://lucaspauker.com/articles/reinforcement-learning-applied-to-blackjack/"></a>
@@ -191,7 +194,8 @@ Text Analysis Automatically generate outlines or summaries of news articles. Fin
   <div class="entry-content">
     <p>Introduction This project done for my CS221 class aims to classify classical music by musical era (Baroque, Classical, Romantic, Modern) with composers as a proxy.
 Using audio processing techniques, such as Short-time Fourier Transform, we extracted features such as the spectrogram and chromagram of the audio data from two datasets, Free Music Archive and MAESTRO.
-We used two ensemble classifiers, AdaBoost and Random Forest, and found that although Adaboost performed marginally better than Random Forest, the latter made more generalizable predictions....</p>
+We used two ensemble classifiers, AdaBoost and Random Forest, and found that although Adaboost performed marginally better than Random Forest, the latter made more generalizable predictions. Both models achieve an accuracy rate of 60% on the test data, which is significantly better than the baseline prediction of 45%. Our project reveals the complexity of the era classification task, and we expect more complex models trained on a larger data set to achieve higher success.
+...</p>
   </div>
   <footer class="entry-footer"><span title='2019-06-28 00:00:00 +0000 UTC'>June 28, 2019</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Lucas Pauker</footer>
   <a class="entry-link" aria-label="post link to Classical Music Classifier Project" href="https://lucaspauker.com/articles/music-matcher/"></a>

@@ -10,7 +10,7 @@
       <link>https://lucaspauker.com/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 23 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lucaspauker.com/tags/charity/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -18,8 +18,21 @@
       <link>https://lucaspauker.com/articles/charity-calculator/</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://lucaspauker.com/articles/charity-calculator/</guid>
-      <description>With holiday season in full swing, people may be more enticed to give to charity. However, there is a question of how to optimize your charitable donations. Specifically, I would like to optimize charitable donations for maximum impact. It seems to me that there are two parts to this equation:
-Which charity(ies)/cause(s) should I give to How much should I give? The answer to the first question is deeply personal, so I want to focus on the second question.</description>
+      <description>&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt;
+&lt;style&gt;
+    body { font-family: Arial, sans-serif; margin: 40px; }
+    .widget-title { text-align: center; }
+    .slider-container { margin-bottom: 20px; display: flex; }
+    label { display: block; margin-bottom: 5px; margin-left: 16px; font-weight: bold; }
+    input[type=&#34;range&#34;] { width: 80%; display: inline-block; }
+    span { display: inline-block; min-width: 60px; text-align: center; }
+    .output { margin-top: 20px; text-align: center; color: black; }
+    .chart-container { overflow-x: auto; width: 100%; }
+    canvas { margin-top: 20px; border: 1px solid #ddd; width: 100%; }
+    .widget-container-outer { width: 100%; border: 1px solid lightgrey; border-radius: 16px; margin: 64px 0px; box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; }
+    .widget-container-inner { margin: 32px; }
+&lt;/style&gt;
+&lt;p&gt;With holiday season in full swing, people may be more enticed to give to charity. However, there is a question of how to optimize your charitable donations. Specifically, I would like to optimize charitable donations for maximum impact. It seems to me that there are two parts to this equation:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

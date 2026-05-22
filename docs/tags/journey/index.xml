@@ -10,7 +10,7 @@
       <link>https://lucaspauker.com/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Thu, 14 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lucaspauker.com/tags/journey/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -18,8 +18,11 @@
       <link>https://lucaspauker.com/fiction/the-golden-city/</link>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://lucaspauker.com/fiction/the-golden-city/</guid>
-      <description>He had chased the city for most of his life.
-It began with a rumor, tucked in the margins of an old book: a golden city, untouched by time, hidden beyond the last bend of the river. He was young then, and the idea took hold like a fever. Over the years, he followed maps that led nowhere, voices that faded into trees, and trails that vanished in the rain. But still, he pressed on, certain that one day the city would rise before him.</description>
+      <description>&lt;p&gt;He had chased the city for most of his life.&lt;/p&gt;
+&lt;p&gt;It began with a rumor, tucked in the margins of an old book: a golden city, untouched by time, hidden beyond the last bend of the river.
+He was young then, and the idea took hold like a fever.
+Over the years, he followed maps that led nowhere, voices that faded into trees, and trails that vanished in the rain.
+But still, he pressed on, certain that one day the city would rise before him.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

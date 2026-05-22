@@ -10,7 +10,7 @@
       <link>https://lucaspauker.com/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lucaspauker.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -18,9 +18,20 @@
       <link>https://lucaspauker.com/articles/your-prod-code-should-have-bugs/</link>
       <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://lucaspauker.com/articles/your-prod-code-should-have-bugs/</guid>
-      <description>Debugging prod after shipping on Friday
-Your job as a software engineer Every line of production code is a bet on speed, safety, and correctness. When you ship software, you are balancing:
-Getting it done fast -&amp;gt; shipping faster means the feature appears earlier for customers and ultimately the business makes more money Not introducing bugs -&amp;gt; bugs can cause outages or other errors that lead to losses The problem is that anyone that has worked with software knows that no matter what, you cannot guarantee that your shipped software will not have bugs.</description>
+      <description>&lt;div class=&#34;center-box&#34;&gt;
+&lt;img src=&#34;https://lucaspauker.com/images/this_is_fine.jpg&#34; alt=&#34;This is fine meme&#34; class=&#34;medium-image&#34;&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;Debugging prod after shipping on Friday&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;your-job-as-a-software-engineer&#34;&gt;Your job as a software engineer&lt;/h2&gt;
+&lt;p&gt;Every line of production code is a bet on speed, safety, and correctness.
+When you ship software, you are balancing:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Getting it done fast -&amp;gt; shipping faster means the feature appears earlier for customers and ultimately the business makes more money&lt;/li&gt;
+&lt;li&gt;Not introducing bugs -&amp;gt; bugs can cause &lt;a href=&#34;https://www.cnn.com/2025/10/25/tech/aws-outage-cause&#34;&gt;outages&lt;/a&gt; or other errors that lead to losses&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The problem is that anyone that has worked with software knows that no matter what, you cannot guarantee that your shipped software will not have bugs.
+In fact, your software will always have bugs.
+No matter how many &amp;ldquo;lgtms&amp;rdquo; you get on your pull request, bugs always find a way of creeping in.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

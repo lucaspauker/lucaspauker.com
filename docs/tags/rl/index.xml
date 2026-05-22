@@ -10,7 +10,7 @@
       <link>https://lucaspauker.com/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lucaspauker.com/tags/rl/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -18,7 +18,10 @@
       <link>https://lucaspauker.com/articles/reinforcement-learning-applied-to-blackjack/</link>
       <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://lucaspauker.com/articles/reinforcement-learning-applied-to-blackjack/</guid>
-      <description>Introduction I recently read Ed Thorpe&amp;rsquo;s Beat the Dealer, a book about how Thorpe, a mathematician, found a way to gain an edge in blackjack. In the book, Thorpe uses computer simulations to calculate the best blackjack strategy as well as card-counting strategies. Since I took a reinforcement learning class last quarter, I wanted to apply one of the most common algorithms, Q-learning, to to find the best strategy for blackjack.</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;I recently read Ed Thorpe&amp;rsquo;s &lt;em&gt;Beat the Dealer&lt;/em&gt;, a book about how Thorpe, a mathematician, found a way to gain an edge in blackjack.
+In the book, Thorpe uses computer simulations to calculate the best blackjack strategy as well as card-counting strategies.
+Since I took a reinforcement learning class last quarter, I wanted to apply one of the most common algorithms, Q-learning, to to find the best strategy for blackjack.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

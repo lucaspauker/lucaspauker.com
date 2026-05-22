@@ -1,95 +1,223 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Cs on Lucas Pauker</title>
+    <title>CS on Lucas Pauker</title>
     <link>https://lucaspauker.com/tags/cs/</link>
-    <description>Recent content in Cs on Lucas Pauker</description>
+    <description>Recent content in CS on Lucas Pauker</description>
     <image>
       <title>Lucas Pauker</title>
       <url>https://lucaspauker.com/images/papermod-cover.png</url>
       <link>https://lucaspauker.com/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lucaspauker.com/tags/cs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>You Are Optimizing for the Wrong Metric</title>
+      <link>https://lucaspauker.com/articles/optimizing-for-the-wrong-metric/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://lucaspauker.com/articles/optimizing-for-the-wrong-metric/</guid>
+      <description>&lt;h2 id=&#34;we-love-to-optimize&#34;&gt;We love to optimize&lt;/h2&gt;
+&lt;p&gt;Technical people love to optimize every little thing.
+For example, I am always thinking about how to use my time, money, and knowledge in the most effective way to the point of getting upset when I do things suboptimally.
+However, everyone optimizes for different things.
+When I had my first software engineering job, I was learning to use vim and I downloaded a bunch of different plugins to make the app prettier and have more functionality.
+Then, when I finally had my setup perfect with 10 different plugins downloaded, I saw that my boss was using stock vim!
+How can you get anything done without neotree??
+He viewed vim as simply a means to an end. How much do plugins really help productivity? Was I really optimizing for the right thing by using my time to learn these plugins?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Your Prod Code Should Have Bugs</title>
       <link>https://lucaspauker.com/articles/your-prod-code-should-have-bugs/</link>
       <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://lucaspauker.com/articles/your-prod-code-should-have-bugs/</guid>
-      <description>Debugging prod after shipping on Friday
-Your job as a software engineer Every line of production code is a bet on speed, safety, and correctness. When you ship software, you are balancing:
-Getting it done fast -&amp;gt; shipping faster means the feature appears earlier for customers and ultimately the business makes more money Not introducing bugs -&amp;gt; bugs can cause outages or other errors that lead to losses The problem is that anyone that has worked with software knows that no matter what, you cannot guarantee that your shipped software will not have bugs.</description>
+      <description>&lt;div class=&#34;center-box&#34;&gt;
+&lt;img src=&#34;https://lucaspauker.com/images/this_is_fine.jpg&#34; alt=&#34;This is fine meme&#34; class=&#34;medium-image&#34;&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;Debugging prod after shipping on Friday&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;your-job-as-a-software-engineer&#34;&gt;Your job as a software engineer&lt;/h2&gt;
+&lt;p&gt;Every line of production code is a bet on speed, safety, and correctness.
+When you ship software, you are balancing:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Getting it done fast -&amp;gt; shipping faster means the feature appears earlier for customers and ultimately the business makes more money&lt;/li&gt;
+&lt;li&gt;Not introducing bugs -&amp;gt; bugs can cause &lt;a href=&#34;https://www.cnn.com/2025/10/25/tech/aws-outage-cause&#34;&gt;outages&lt;/a&gt; or other errors that lead to losses&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The problem is that anyone that has worked with software knows that no matter what, you cannot guarantee that your shipped software will not have bugs.
+In fact, your software will always have bugs.
+No matter how many &amp;ldquo;lgtms&amp;rdquo; you get on your pull request, bugs always find a way of creeping in.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Home Run Modeling</title>
       <link>https://lucaspauker.com/articles/home-run-modeling/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://lucaspauker.com/articles/home-run-modeling/</guid>
-      <description>Why home runs? Some of the best moments in baseball games are home runs. Something about hitting the ball out of the park is satisfying. Since baseball season just started, I wanted to model a part of the game. I decided to model home runs since they are pretty rare events but should still be able to be accurately predicted. When I say accurately predicted, I mean that we can accurately predict the probability of a player hitting a home run.</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://lucaspauker.com/images/baseball_modeling/header_image.png#center&#34; alt=&#34;Header image&#34;  /&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;why-home-runs&#34;&gt;Why home runs?&lt;/h2&gt;
+&lt;p&gt;Some of the best moments in baseball games are home runs.
+Something about hitting the ball out of the park is satisfying.
+Since baseball season just started, I wanted to model a part of the game.
+I decided to model home runs since they are pretty rare events but should still be able to be accurately predicted.
+When I say accurately predicted, I mean that we can accurately predict the probability of a player hitting a home run.
+At the end of the day, we can only compare to the true data&amp;hellip;but we have many years of baseball data (baseball is nice since there are very detailed statistics and metrics for each player for 100+ years).&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI Model Timing</title>
       <link>https://lucaspauker.com/articles/openai-model-timing/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://lucaspauker.com/articles/openai-model-timing/</guid>
-      <description>Introduction The goal of this article is to explore the latency of different OpenAI models. When using AI models in production, latency is an important factor to consider.
-Comparing Model Architectures First, I test the latency for different OpenAI models. I test the following models: gpt-4, gpt-4-0613, gpt-3.5-turbo, gpt-3.5-turbo-0613, gpt-3.5-turbo-16k, gpt-3.5-turbo-16k-0613, text-davinci-003, text-davinci-002, text-davinci-001, text-curie-001, text-babbage-001, text-ada-001, davinci-002, babbage-002, davinci, curie, babbage, and ada. These are all the OpenAI models that are available for inference through the chat and completions endpoints.</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;The goal of this article is to explore the latency of different OpenAI models.
+When using AI models in production, latency is an important factor to consider.&lt;/p&gt;
+&lt;h2 id=&#34;comparing-model-architectures&#34;&gt;Comparing Model Architectures&lt;/h2&gt;
+&lt;p&gt;First, I test the latency for different OpenAI models.
+I test the following models: &lt;strong&gt;gpt-4&lt;/strong&gt;, &lt;strong&gt;gpt-4-0613&lt;/strong&gt;, &lt;strong&gt;gpt-3.5-turbo&lt;/strong&gt;, &lt;strong&gt;gpt-3.5-turbo-0613&lt;/strong&gt;, &lt;strong&gt;gpt-3.5-turbo-16k&lt;/strong&gt;, &lt;strong&gt;gpt-3.5-turbo-16k-0613&lt;/strong&gt;, &lt;strong&gt;text-davinci-003&lt;/strong&gt;, &lt;strong&gt;text-davinci-002&lt;/strong&gt;, &lt;strong&gt;text-davinci-001&lt;/strong&gt;, &lt;strong&gt;text-curie-001&lt;/strong&gt;, &lt;strong&gt;text-babbage-001&lt;/strong&gt;, &lt;strong&gt;text-ada-001&lt;/strong&gt;, &lt;strong&gt;davinci-002&lt;/strong&gt;, &lt;strong&gt;babbage-002&lt;/strong&gt;, &lt;strong&gt;davinci&lt;/strong&gt;, &lt;strong&gt;curie&lt;/strong&gt;, &lt;strong&gt;babbage&lt;/strong&gt;, and &lt;strong&gt;ada&lt;/strong&gt;.
+These are all the OpenAI models that are available for inference through the &lt;code&gt;chat&lt;/code&gt; and &lt;code&gt;completions&lt;/code&gt; endpoints.
+The models can be divided into chat models, instruct models, and base models.
+Chat models are &lt;strong&gt;gpt-4&lt;/strong&gt; and &lt;strong&gt;gpt-3.5&lt;/strong&gt; and are LLMs that are optimized for chat.
+Instruct models are models that are trained with reinforcement learning through human feedback to follow instructions &lt;a href=&#34;https://openai.com/research/instruction-following&#34;&gt;[1]&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LLMs Unleashed: The Power of Fine-Tuning</title>
       <link>https://lucaspauker.com/articles/llms-unleashed-the-power-of-fine-tuning/</link>
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://lucaspauker.com/articles/llms-unleashed-the-power-of-fine-tuning/</guid>
-      <description>Disclaimer: This article mentions https://terra-cotta.ai/, an LLM experimentation platform I am building
-Introduction ChatGPT, Bard, and other large language models (LLMs) are very useful for a wide variety of tasks from writing code to answering complex questions to aiding with education. However, these models are ultimately limited by the data that they are trained on. Also, these models are trained to be able to answer a wide variety of questions which may not be sufficient for domain-specific questions.</description>
+      <description>&lt;p&gt;&lt;em&gt;Disclaimer: This article mentions &lt;a href=&#34;https://terra-cotta.ai/&#34;&gt;https://terra-cotta.ai/&lt;/a&gt;, an LLM experimentation platform I am building&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;ChatGPT, Bard, and other large language models (LLMs) are very useful for a wide variety of tasks from writing code to answering complex questions to aiding with education. However, these models are ultimately limited by the data that they are trained on. Also, these models are trained to be able to answer a wide variety of questions which may not be sufficient for domain-specific questions. Fine-tuning is essential in order to make these models accurately answer domain-specific questions and be useful for difficult tasks. Furthermore, fine-tuning may be cheaper for inference.&lt;/p&gt;</description>
     </item>
     <item>
       <title>50 AI Applications</title>
       <link>https://lucaspauker.com/articles/50-practical-applications-of-artificial-intelligence-and-language-models/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://lucaspauker.com/articles/50-practical-applications-of-artificial-intelligence-and-language-models/</guid>
-      <description>Advancements in artificial intelligence and language models have made significant impacts in various fields from healthcare to finance to entertainment. Here are 50 practical applications of AI that are currently in use or have the potential to be implemented in various industries. Let me know if any of these ideas inspire you or if you build any of them!
-Text Analysis Automatically generate outlines or summaries of news articles. Find fake news and provide a citation with the real source.</description>
+      <description>&lt;p&gt;Advancements in artificial intelligence and language models have made significant impacts in various fields from healthcare to finance to entertainment. Here are 50 practical applications of AI that are currently in use or have the potential to be implemented in various industries. Let me know if any of these ideas inspire you or if you build any of them!&lt;/p&gt;
+&lt;h2 id=&#34;text-analysis&#34;&gt;Text Analysis&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Automatically generate outlines or summaries of news articles.&lt;/li&gt;
+&lt;li&gt;Find fake news and provide a citation with the real source.&lt;/li&gt;
+&lt;li&gt;Determine the political affiliation and bias of a news article.&lt;/li&gt;
+&lt;li&gt;Generate better captions/subtitles for shows translated from foreign languages.&lt;/li&gt;
+&lt;li&gt;Generate lyrics for songs based on a topic and song structure.&lt;/li&gt;
+&lt;li&gt;Generate summary of court opinions or court transcripts to understand legal proceedings better.&lt;/li&gt;
+&lt;li&gt;Annotate legal documents for specific clauses (&lt;a href=&#34;https://github.com/lucaspauker/extract-contract%29&#34;&gt;https://github.com/lucaspauker/extract-contract)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Find similar academic papers to an input prompt.&lt;/li&gt;
+&lt;li&gt;Generate lyric annotations (like Genius) automatically by using information on the internet.&lt;/li&gt;
+&lt;li&gt;Better Google search suggestions with language models.&lt;/li&gt;
+&lt;li&gt;Generate personalized poems for someone.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;ai-assistance&#34;&gt;AI Assistance&lt;/h2&gt;
+&lt;ol start=&#34;12&#34;&gt;
+  &lt;li&gt;Generate code from comments or pseudocode.&lt;/li&gt;
+  &lt;li&gt;Translate code from one coding language to another.&lt;/li&gt;
+  &lt;li&gt;Generate automatic email reply suggestions based on your writing style.&lt;/li&gt;
+  &lt;li&gt;Generate a cover letter based on your resume and the company website you are applying for.&lt;/li&gt;
+  &lt;li&gt;Suggest edits to a paper like Grammarly.&lt;/li&gt;
+  &lt;li&gt;Automatically generate simple math questions (for example arithmetic word problems).&lt;/li&gt;
+  &lt;li&gt;Automatically grade essays or automatically grade the ACT/SAT writing section.&lt;/li&gt;
+  &lt;li&gt;Suggest next workout based on previous workouts and goals.&lt;/li&gt;
+  &lt;li&gt;For doctors, given a patient, find similar patients and summarize their diagnoses in order to help diagnose the patient.&lt;/li&gt;
+  &lt;li&gt;Generate slogan based on product description.&lt;/li&gt;
+  &lt;li&gt;Generate Latex notes from a transcript of a lecture.&lt;/li&gt;
+  &lt;li&gt;Generate presentation slides based on a paper.&lt;/li&gt;
+  &lt;li&gt;Write an abstract for an academic paper given the rest of the paper.&lt;/li&gt;
+  &lt;li&gt;Do a command on a browser given text input for example: “buy a plane ticket on United from SFO to ORD.”&lt;/li&gt;
+  &lt;li&gt;Autocomplete sentences in Google docs using AI.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;travel-and-leisure&#34;&gt;Travel and Leisure&lt;/h2&gt;
+&lt;ol start=&#34;27&#34;&gt;
+  &lt;li&gt;Generate travel itinerary based on user preferences.&lt;/li&gt;
+  &lt;li&gt;Generate meal plans based on caloric goals and food preferences.&lt;/li&gt;
+  &lt;li&gt;Suggest outfits to wear based on a user’s fashion preferences.&lt;/li&gt;
+  &lt;li&gt;Suggest meals based on ingredients someone has in their kitchen.&lt;/li&gt;
+  &lt;li&gt;Generate sports game commentary based on context of what’s happening in the game.&lt;/li&gt;
+  &lt;li&gt;Generate a text-based game with AI that has infinite possibilities.&lt;/li&gt;
+  &lt;li&gt;Automatically generate responses for video game characters using AI.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;
+&lt;ol start=&#34;34&#34;&gt;
+  &lt;li&gt;Grade a student’s work with a picture of the student’s assignment and a picture of the answer key.&lt;/li&gt;
+  &lt;li&gt;Improve accessibility on the web by automatically generating captions for images.&lt;/li&gt;
+  &lt;li&gt;Convert handwritten text from an image to digital text.&lt;/li&gt;
+  &lt;li&gt;Diagnose medical conditions by analyzing medical images.&lt;/li&gt;
+  &lt;li&gt;Generate images for advertising campaigns based on existing images.&lt;/li&gt;
+  &lt;li&gt;Create design assets in Figma based on text ideas and pictures.&lt;/li&gt;
+  &lt;li&gt;Count the number of cars or buildings in satellite images.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+&lt;ol start=&#34;41&#34;&gt;
+  &lt;li&gt;Generate a transcript by lip-reading a video.&lt;/li&gt;
+  &lt;li&gt;Create annotations for key events in a video.&lt;/li&gt;
+  &lt;li&gt;Detect and label important objects in video footage.&lt;/li&gt;
+  &lt;li&gt;Generate a Tinder profile based on someone’s Instagram profile.&lt;/li&gt;
+  &lt;li&gt;Increase the frame rate of animation by generating extra frames.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;audio&#34;&gt;Audio&lt;/h2&gt;
+&lt;ol start=&#34;46&#34;&gt;
+  &lt;li&gt;Generate lyrics from audio.&lt;/li&gt;
+  &lt;li&gt;Given audio and the lyrics, output the timestamp of each lyric.&lt;/li&gt;
+  &lt;li&gt;Transcribe speech from audio.&lt;/li&gt;
+  &lt;li&gt;Generate sheet music or MIDI from audio.&lt;/li&gt;
+  &lt;li&gt;Critique a song by analyzing its musical elements and style given audio.&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Blackjack Reinforcement Learning</title>
       <link>https://lucaspauker.com/articles/reinforcement-learning-applied-to-blackjack/</link>
       <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://lucaspauker.com/articles/reinforcement-learning-applied-to-blackjack/</guid>
-      <description>Introduction I recently read Ed Thorpe&amp;rsquo;s Beat the Dealer, a book about how Thorpe, a mathematician, found a way to gain an edge in blackjack. In the book, Thorpe uses computer simulations to calculate the best blackjack strategy as well as card-counting strategies. Since I took a reinforcement learning class last quarter, I wanted to apply one of the most common algorithms, Q-learning, to to find the best strategy for blackjack.</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;I recently read Ed Thorpe&amp;rsquo;s &lt;em&gt;Beat the Dealer&lt;/em&gt;, a book about how Thorpe, a mathematician, found a way to gain an edge in blackjack.
+In the book, Thorpe uses computer simulations to calculate the best blackjack strategy as well as card-counting strategies.
+Since I took a reinforcement learning class last quarter, I wanted to apply one of the most common algorithms, Q-learning, to to find the best strategy for blackjack.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Achieving Quantum Supremacy, Qubit by Qubit</title>
       <link>https://lucaspauker.com/articles/achieving-quantum-supremacy-qubit-by-qubit/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://lucaspauker.com/articles/achieving-quantum-supremacy-qubit-by-qubit/</guid>
-      <description>Faster than a Supercomputer? In the 1980s, American physicist Richard Feynman proposed the idea of quantum computers to model complex quantum systems. In October 2019, around 40 years later, Google AI and NASA scientists unveiled a quantum computer which ran an experiment in a few minutes that would take the fastest supercomputer 10,000 years. The quantum computer sped up the computation by a factor of 1 billion! This was one of the first major successes in the nascent field of quantum computing.</description>
+      <description>&lt;h2 id=&#34;faster-than-a-supercomputer&#34;&gt;Faster than a Supercomputer?&lt;/h2&gt;
+&lt;p&gt;In the 1980s, American physicist Richard Feynman proposed the idea of quantum computers to model complex quantum systems.
+In October 2019, around 40 years later, Google AI and NASA scientists unveiled a quantum computer which ran an experiment in a few minutes that would take the fastest supercomputer 10,000 years.
+The quantum computer sped up the computation by a factor of 1 billion! This was one of the first major successes in the nascent field of quantum computing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Simple Stock Market Models with Python</title>
       <link>https://lucaspauker.com/articles/simple-stock-market-models-with-python/</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://lucaspauker.com/articles/simple-stock-market-models-with-python/</guid>
-      <description>Introduction In this blog post, I will implement a few simple time series models of a stock price over time. I will also see how they do if we trade using them. We will look at moving averages (MA) and exponential moving averages (EMA).
-Data First, we need to download the price data. For this article, we will use SPY historical open price data. We can download this from Yahoo Finance.</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In this blog post, I will implement a few simple time series models of a stock price over time.
+I will also see how they do if we trade using them.
+We will look at moving averages (MA) and exponential moving averages (EMA).&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;First, we need to download the price data.
+For this article, we will use SPY historical open price data.
+We can download this from &lt;a href=&#34;https://finance.yahoo.com/quote/SPY/history?period1=728265600&amp;amp;period2=1607904000&amp;amp;interval=1d&amp;amp;filter=history&amp;amp;frequency=1d&amp;amp;includeAdjustedClose=true&#34;&gt;Yahoo Finance&lt;/a&gt;.
+Now, let&amp;rsquo;s process the data into a dataframe and split the data into test and train datasets.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Solar Flare Time Series Research</title>
       <link>https://lucaspauker.com/articles/understanding-solar-flares-with-time-series-data/</link>
       <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://lucaspauker.com/articles/understanding-solar-flares-with-time-series-data/</guid>
-      <description>Introduction I spent the summer of 2019 as a physics research intern at the Stanford University Solar Lab. I was very fortunate to have a wonderful advisor and had a great summer overall. I created machine learning models to characterize time series data for solar flare prediction. In this article, I will first provide some physics background about solar flares, then dive into my research. For a more in-depth analysis, check out the source code and my poster.</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;I spent the summer of 2019 as a physics research intern at the &lt;a href=&#34;http://sun.stanford.edu&#34;&gt;Stanford University Solar Lab&lt;/a&gt;.
+I was very fortunate to have a &lt;a href=&#34;https://www.stanford.edu/~mbobra&#34;&gt;wonderful advisor&lt;/a&gt; and had a great summer overall.
+I created machine learning models to characterize time series data for solar flare prediction.
+In this article, I will first provide some physics background about solar flares, then dive into my research.
+For a more in-depth analysis, check out the &lt;a href=&#34;https://github.com/lucaspauker/hmi-time-series-analysis&#34;&gt;source code&lt;/a&gt; and my &lt;a href=&#34;https://lucaspauker.com/poster&#34;&gt;poster&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Classical Music Classifier Project</title>
       <link>https://lucaspauker.com/articles/music-matcher/</link>
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://lucaspauker.com/articles/music-matcher/</guid>
-      <description>Introduction This project done for my CS221 class aims to classify classical music by musical era (Baroque, Classical, Romantic, Modern) with composers as a proxy.
-Using audio processing techniques, such as Short-time Fourier Transform, we extracted features such as the spectrogram and chromagram of the audio data from two datasets, Free Music Archive and MAESTRO.
-We used two ensemble classifiers, AdaBoost and Random Forest, and found that although Adaboost performed marginally better than Random Forest, the latter made more generalizable predictions.</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/lucaspauker/music-matcher&#34;&gt;This project&lt;/a&gt; done for my CS221 class aims to classify classical music by musical era (Baroque, Classical, Romantic, Modern) with composers as a proxy.&lt;/p&gt;
+&lt;p&gt;Using audio processing techniques, such as Short-time Fourier Transform, we extracted features such as the spectrogram and chromagram of the audio data from two datasets, &lt;code&gt;Free Music Archive&lt;/code&gt; and &lt;code&gt;MAESTRO&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;We used two ensemble classifiers, AdaBoost and Random Forest, and found that although Adaboost performed marginally better than Random Forest, the latter made more generalizable predictions. Both models achieve an accuracy rate of 60% on the test data, which is significantly better than the baseline prediction of 45%. Our project reveals the complexity of the era classification task, and we expect more complex models trained on a larger data set to achieve higher success.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

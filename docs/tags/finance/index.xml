@@ -10,7 +10,7 @@
       <link>https://lucaspauker.com/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lucaspauker.com/tags/finance/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -18,31 +18,50 @@
       <link>https://lucaspauker.com/articles/newber/</link>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
       <guid>https://lucaspauker.com/articles/newber/</guid>
-      <description>Recently, when I was at the airport looking to get a ride share back home I checked the price of both Uber and Lyft. I noticed that an Uber was 25$ and a Lyft was 39$…that is a price difference of 14$, or more than half the price of the Uber! The Lyft ride was 56% more expensive…
-How can two multibillion publicly traded companies have such different pricing? Both companies have entire teams devoted to determining pricing, yet they are still so off.</description>
+      <description>&lt;p&gt;Recently, when I was at the airport looking to get a ride share back home I checked the price of both Uber and Lyft. I noticed that an Uber was 25$ and a Lyft was 39$…that is a price difference of 14$, or more than half the price of the Uber! The Lyft ride was 56% more expensive…&lt;/p&gt;
+&lt;p&gt;How can two multibillion publicly traded companies have such different pricing? Both companies have entire teams devoted to determining pricing, yet they are still so off.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Simple Stock Market Models with Python</title>
       <link>https://lucaspauker.com/articles/simple-stock-market-models-with-python/</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://lucaspauker.com/articles/simple-stock-market-models-with-python/</guid>
-      <description>Introduction In this blog post, I will implement a few simple time series models of a stock price over time. I will also see how they do if we trade using them. We will look at moving averages (MA) and exponential moving averages (EMA).
-Data First, we need to download the price data. For this article, we will use SPY historical open price data. We can download this from Yahoo Finance.</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In this blog post, I will implement a few simple time series models of a stock price over time.
+I will also see how they do if we trade using them.
+We will look at moving averages (MA) and exponential moving averages (EMA).&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;First, we need to download the price data.
+For this article, we will use SPY historical open price data.
+We can download this from &lt;a href=&#34;https://finance.yahoo.com/quote/SPY/history?period1=728265600&amp;amp;period2=1607904000&amp;amp;interval=1d&amp;amp;filter=history&amp;amp;frequency=1d&amp;amp;includeAdjustedClose=true&#34;&gt;Yahoo Finance&lt;/a&gt;.
+Now, let&amp;rsquo;s process the data into a dataframe and split the data into test and train datasets.&lt;/p&gt;</description>
     </item>
     <item>
       <title>US Treasury Futures Delivery Options</title>
       <link>https://lucaspauker.com/articles/us-treasury-futures-delivery-options/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://lucaspauker.com/articles/us-treasury-futures-delivery-options/</guid>
-      <description>Introduction This blog post will discuss the delivery options for someone who is short US Treasury (UST) futures contracts. During the last month of trading, the short &amp;ldquo;delivers&amp;rdquo; the USTs specified in the futures contract to the long. The short has various options when they make delivery of the treasuries. Understanding these options is interesting and important for anyone who trades UST futures and the UST basis.
-UST futures are some of the most liquid financial contracts in the world.</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This blog post will discuss the delivery options for someone who is short US Treasury (UST) futures contracts.
+During the last month of trading, the short &amp;ldquo;delivers&amp;rdquo; the USTs specified in the futures contract to the long.
+The short has various options when they make delivery of the treasuries.
+Understanding these options is interesting and important for anyone who trades UST futures and the UST basis.&lt;/p&gt;
+&lt;p&gt;UST futures are some of the most liquid financial contracts in the world.
+UST futures began being traded in 1977 and the Chicago Board of Trade has consistently introduced more Treasury futures products due to their popularity.
+UST futures are unique from other futures contracts because the short can deliver any UST from a basket of bonds/notes.
+For example, for the 10-year T-note futures (TN), one can deliver,&lt;/p&gt;</description>
     </item>
     <item>
       <title>Timekeeping in Financial Exchanges</title>
       <link>https://lucaspauker.com/articles/timekeeping-in-financial-exchanges/</link>
       <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://lucaspauker.com/articles/timekeeping-in-financial-exchanges/</guid>
-      <description>Why Exchange Clocks Matter In high frequency trading (HFT), time is literally money. An edge of a few microseconds could translate to millions in profits. The most popular markets for cash products (equity, bonds, etc.) are in New York (NYSE, Nasdaq), while the most popular futures and options market is in Chicago (CME). Since cash and futures influence each other, getting data between New York and Chicago as fast as possible is important.</description>
+      <description>&lt;h2 id=&#34;why-exchange-clocks-matter&#34;&gt;Why Exchange Clocks Matter&lt;/h2&gt;
+&lt;p&gt;In high frequency trading (HFT), time is literally money.
+An edge of a few microseconds could translate to millions in profits.
+The most popular markets for cash products (equity, bonds, etc.) are in New York (NYSE, Nasdaq), while the most popular futures and options market is in Chicago (CME).
+Since cash and futures influence each other, getting data between New York and Chicago as fast as possible is important.
+If one has the fastest transmission time, they can look for price discrepancies and book profits.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

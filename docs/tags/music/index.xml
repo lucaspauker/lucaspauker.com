@@ -10,7 +10,7 @@
       <link>https://lucaspauker.com/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lucaspauker.com/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -18,16 +18,22 @@
       <link>https://lucaspauker.com/articles/why-do-musical-scales-have-certain-numbers-of-notes/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://lucaspauker.com/articles/why-do-musical-scales-have-certain-numbers-of-notes/</guid>
-      <description>The Question I, like many others, started learning to play piano when I was around 8 years old. I took lessons, learned songs, and gained an appreciation for the instrument. I have been playing (with some breaks) until today. Although I have been playing for a while, it wasn’t until taking my first music theory class in college that I started thinking deeply about why music is constructed in the way it is.</description>
+      <description>&lt;h2 id=&#34;the-question&#34;&gt;The Question&lt;/h2&gt;
+&lt;p&gt;I, like many others, started learning to play piano when I was around 8 years old.
+I took lessons, learned songs, and gained an appreciation for the instrument.
+I have been playing (with some breaks) until today.
+Although I have been playing for a while, it wasn’t until taking my first music theory class in college that I started thinking deeply about why music is constructed in the way it is.
+In the theory class, we learned about chord progressions and voice leading but I found that as I dug deeper into the theory, there were fundamental parts I didn’t understand.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Classical Music Classifier Project</title>
       <link>https://lucaspauker.com/articles/music-matcher/</link>
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://lucaspauker.com/articles/music-matcher/</guid>
-      <description>Introduction This project done for my CS221 class aims to classify classical music by musical era (Baroque, Classical, Romantic, Modern) with composers as a proxy.
-Using audio processing techniques, such as Short-time Fourier Transform, we extracted features such as the spectrogram and chromagram of the audio data from two datasets, Free Music Archive and MAESTRO.
-We used two ensemble classifiers, AdaBoost and Random Forest, and found that although Adaboost performed marginally better than Random Forest, the latter made more generalizable predictions.</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/lucaspauker/music-matcher&#34;&gt;This project&lt;/a&gt; done for my CS221 class aims to classify classical music by musical era (Baroque, Classical, Romantic, Modern) with composers as a proxy.&lt;/p&gt;
+&lt;p&gt;Using audio processing techniques, such as Short-time Fourier Transform, we extracted features such as the spectrogram and chromagram of the audio data from two datasets, &lt;code&gt;Free Music Archive&lt;/code&gt; and &lt;code&gt;MAESTRO&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;We used two ensemble classifiers, AdaBoost and Random Forest, and found that although Adaboost performed marginally better than Random Forest, the latter made more generalizable predictions. Both models achieve an accuracy rate of 60% on the test data, which is significantly better than the baseline prediction of 45%. Our project reveals the complexity of the era classification task, and we expect more complex models trained on a larger data set to achieve higher success.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
