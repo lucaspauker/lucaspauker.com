@@ -106,6 +106,7 @@ Key features include real-time price tracking, historical price graphs to unders
 ## Class projects
 
 - [NLP Paper: Automated Basketball Video Captioning](/files/cs224n_final_paper.pdf)
+- [NLP/Vision Paper: Automated Basketball Video Captioning](/files/cs324_final_paper.pdf)
 - [RL Paper: Hierarchical Reinforcement Learning](/files/cs326_final_paper.pdf)
 - [Astronomy Paper: Measuring Stellar Formation Rates ](/files/astronomy_paper.pdf)
 - [Stats Paper: Identifying Pairs for Pairs Trading](/files/stats207_final_paper_beri_lucas.pdf)
